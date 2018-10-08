@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Seznam Zprávy - nejnovější články</title>
+    <link>https://www.seznamzpravy.cz</link>
+    <description>Seznam Zprávy - nejnovější články</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 12 Sep 2018 17:56:26 +0000</lastBuildDate>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 19:22:47 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Zahraniční</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/zxhlb.jpeg?fl=cro,0,144,3000,1687|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55588</g:id>
+      <g:title>Vzácný virus opičích neštovic se objevil ve Velké Británii</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/vzacny-virus-opicich-nestovic-se-objevil-ve-velke-britanii-55588</g:link>
+      <g:description>Britské ministerstvo zdravotnictví a sociální péče potvrdilo, že jsou infekčním onemocněním nakažení dva lidé.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 19:15:20 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Večerní zprávy</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_J/TQITT.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_J/TQITT.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55586</g:id>
+      <g:title>Korupce na pražské hygieně, nebezpečná droga na Ostravsku a nová směrnice o copyrightu</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/korupce-na-prazske-hygiene-nebezpecna-droga-na-ostravsku-a-nova-smernice-o-copyrightu-55586</g:link>
+      <g:description>Hlavní zpravodajská relace Televize Seznam.</g:description>
+      <g:google_product_category>Večerní zprávy</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 18:49:00 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Slavní</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/mYilh.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/mYilh.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55580</g:id>
+      <g:title>Muzikál Galileo je zpět! V únoru se představí v původním hvězdném obsazení</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/muzikal-galileo-je-zpet-v-unoru-se-predstavi-v-puvodnim-hvezdnem-obsazeni-55580</g:link>
+      <g:description>Jeden z nejúspěšnějších tuzemských muzikálů Galileo se po 15 letech vrací na divadelní prkna, do Divadla Hybernia v Praze. Producentem a zároveň jedním z představitelů hlavní role je zpěvák Janek Ledecký.</g:description>
+      <g:google_product_category>Slavní</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 18:01:16 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Domácí</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/bvGl5.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/bvGl5.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55571</g:id>
+      <g:title>Přestupky cizinců v Mladé Boleslavi řeší vnitro i Škoda Auto. Strážníci nafasovali neprůstřelné vesty</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/prestupky-cizincu-v-mlade-boleslavi-resi-vnitro-i-skoda-auto-straznici-nafasovali-neprustrelne-vesty-55571</g:link>
+      <g:description>Podle mladoboleslavského primátora způsobují devět z deseti přestupků ve městě cizinci. Jde zejména o dělníky pracující v místní automobilce. O zvýšení bezpečnosti se snaží jak samotné město, tak i Ministerstvo vnitra nebo Škoda Auto.</g:description>
+      <g:google_product_category>Domácí</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 17:28:23 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Zahraniční</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/D5SlW.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55578</g:id>
+      <g:title>Papež František svolal mimořádnou schůzku kvůli sexuálnímu zneužívání dětí kněžími</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/papez-frantisek-svolal-mimoradnou-schuzku-kvuli-sexualnimu-zneuzivani-deti-knezimi-55578</g:link>
+      <g:description>V reakci na nekončící sérii skandálů se sexuálním zneužíváním dětí církevními hodnostáři svolal papež František bezprecedentní schůzku hlav katolické církve. Na programu má být především prevence a ochrana dětí do budoucna.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 16:52:02 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Zahraniční</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/bjDlM.jpeg?fl=cro,0,169,1800,1013|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55562</g:id>
+      <g:title>Hanojské úřady vyzývají obyvatele, aby nejedli psí maso</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/hanojske-urady-vyzyvaji-obyvatele-aby-nejedli-psi-maso-55562</g:link>
+      <g:description>Podle hanojských úřadů poškozuje prý konzumace masa reputaci města a přispívá k šíření nemocí. Vyzvaly proto obyvatele, aby se konzumace masa zdrželi. Část veřejnosti výzvu úřadů vítá, jiní tvrdí, že se Vietnamci konzumace psího a kočičího masa jen tak nevzdají, protože je zvyk ve společnosti hluboce zakořeněn. </g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 16:35:00 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Slavní</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/ag5ly.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/ag5ly.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55577</g:id>
+      <g:title>Tomáš Savka má 15 let od SuperStar vysněné povolání a první dítě</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/tomas-savka-ma-15-let-od-superstar-vysnene-povolani-a-prvni-dite-55577</g:link>
+      <g:description>Zpěvák Tomáš Savka se patnáct let od první SuperStar hodně proměnil. Z kluka se stal muž, etabloval se na hudební scéně a před pár dny se stal poprvé otcem. </g:description>
+      <g:google_product_category>Slavní</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 16:01:42 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Domácí</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/Oatlw.jpeg?fl=cro,0,605,4032,2268|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55555</g:id>
+      <g:title>Zeman tlačil na zmírnění protiruských sankcí, u politiků narazil</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/zeman-babis-a-spol-se-domluvili-na-pokracovani-ruskych-sankci-a-velvyslanectvi-v-jeruzaleme-55555</g:link>
+      <g:description>Na Pražském hradě se sešly špičky tuzemské politiky, aby sladily postoje v zahraniční politice. Výsledkem je prohlášení, do něhož se hlavě státu nepodařilo vpašovat svou vstřícnost k Rusku.</g:description>
+      <g:google_product_category>Domácí</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 15:45:00 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Sport</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/qkSlU.jpeg?fl=cro,0,36,1800,1013|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55541</g:id>
+      <g:title>Budou rozhodčí bojkotovat zápasy Sereny? Nechápu, že se ještě neomluvila, říká český sudí</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/budou-rozhodci-bojkotovat-zapasy-sereny-nechapu-ze-se-jeste-neomluvila-rika-cesky-sudi-55541</g:link>
+      <g:description>Incident z finálového utkání US Open mezi Serenou Williamsovou a Carlosem Ramosem dostává nový náboj. Pokud se Williamsová za své chování veřejně neomluví, tenisoví rozhodčí hrozí bojkotem zápasů americké hvězdy. </g:description>
+      <g:google_product_category>Sport</g:google_product_category>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:custom_label_0>Wed, 12 Sep 2018 15:30:00 +0200</g:custom_label_0>
+      <g:availability>in stock</g:availability>
+      <g:brand>Šťastné pondělí</g:brand>
+      <g:price>1</g:price>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/1Fnlv.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/1Fnlv.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:id>55572</g:id>
+      <g:title>Šťastné pondělí Speciál: TOP 10 modelů Michaely Jílkové. I vy máte slovo</g:title>
+      <g:link>https://www.seznamzpravy.cz/clanek/stastne-pondeli-special-top-10-modelu-michaely-jilkove-i-vy-mate-slovo-55572</g:link>
+      <g:description>Nová rubrika satirického pořadu Jindřicha Šídla je tu. Žebříček toho nejlepšího, co můžete vidět v televizi veřejné služby. </g:description>
+      <g:google_product_category>Šťastné pondělí</g:google_product_category>
+    </item>
+  </channel>
+</rss>

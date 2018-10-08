@@ -1,0 +1,14 @@
+Caught FastRoute\BadRouteException: Optional segments can only occur at the end of a route in /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/nikic/fast-route/src/RouteParser/Std.php:35
+Stack trace:
+#0 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/nikic/fast-route/src/RouteCollector.php(41): FastRoute\RouteParser\Std->parse('/book/[[{method...')
+#1 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/Router.php(227): FastRoute\RouteCollector->addRoute(Array, '/book/[[{method...', 'route0')
+#2 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/nikic/fast-route/src/functions.php(25): Slim\Router->Slim\{closure}(Object(FastRoute\RouteCollector))
+#3 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/Router.php(238): FastRoute\simpleDispatcher(Object(Closure), Array)
+#4 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/Router.php(191): Slim\Router->createDispatcher()
+#5 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/App.php(583): Slim\Router->dispatch(Object(Slim\Http\Request))
+#6 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/App.php(507): Slim\App->dispatchRouterAndPrepareRoute(Object(Slim\Http\Request), Object(Slim\Router))
+#7 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/App.php(406): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /Users/krystofkosut/www/OSIA/slaskouniki2/src/vendor/slim/slim/Slim/App.php(314): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /Users/krystofkosut/www/OSIA/slaskouniki2/src/public/index.php(100): Slim\App->run()
+#11 {main}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Seznam Zprávy - nejnovější články</title>
+    <link>https://www.seznamzpravy.cz</link>
+    <description>Seznam Zprávy - nejnovější články</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 14 Sep 2018 09:12:58 +0000</lastBuildDate>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/HNRmY.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/HNRmY.jpeg?fl=cro,0,302,5760,3240|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55733</g:id>
+      <g:price>1</g:price>
+      <g:description>Střídání letního a zimního času by brzy mohlo skončit. Maroš Šefčovič a Violeta Bulcová z Evropské komise dostali za úkol představit detaily návrhu na zrušení střídání času.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/evropska-komise-navrhuje-zrusit-stridani-casu-55733</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Přímý přenos: Evropská komise navrhuje zrušit střídání času</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 11:08:33 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/feemf.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Domácí</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/feemf.jpeg?fl=cro,2,0,1251,704|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55721</g:id>
+      <g:price>1</g:price>
+      <g:description>Ministr vnitra Jan Hamáček (ČSSD) chce, aby bylo možné rychleji zrušit pobyt cizinci, který se v Česku opakovaně dopustí úmyslné trestné činnosti. Zatímco dnes proces ukončení pobytu trvá dva roky a déle, nově by to mělo být maximálně šest měsíců. </g:description>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/hamacek-navrhuje-urychlit-vyhosteni-odsouzenych-cizincu-55721</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Hamáček navrhuje urychlit vyhoštění odsouzených cizinců. "Vnitro je dnes bezzubé," říká ministr</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 11:02:16 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/dRZmc.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Záhady</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/dRZmc.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55487</g:id>
+      <g:price>1</g:price>
+      <g:description>V rubrice Selfie day půjčujeme kamery známým osobnostem, které natočí, jak vypadá jejich den.</g:description>
+      <g:google_product_category>Záhady</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/kdyz-se-jmenujete-vetvicka-tak-trochu-vam-to-predurci-zivotni-drahu-55487</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Když se jmenujete Větvička, tak trochu vám to předurčí životní dráhu</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 09:30:00 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/EzIl5.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Rodinka</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/EzIl5.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55630</g:id>
+      <g:price>1</g:price>
+      <g:description>Radek Hrdina tentokrát zkoumal, co je potřeba k létání s drony.</g:description>
+      <g:google_product_category>Rodinka</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/letani-s-drony-ma-sva-pravidla-mel-by-je-znat-kazdy-pilot-55630</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Létání s drony má svá pravidla, měl by je znát každý pilot</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 09:27:19 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/cfzmS.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/cfzmS.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55713</g:id>
+      <g:price>1</g:price>
+      <g:description>První výbuch způsobil přetlak v plynovém potrubí, následovaly další až čtyři desítky explozí. Vzplálo několik domů v obcích severně od Bostonu. </g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/severne-od-bostonu-explodovalo-plynove-potrubi-lekari-osetrili-sest-popalenych-lidi-55713</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Severně od Bostonu explodovalo plynové potrubí, zemřel nejméně jeden člověk</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 08:15:52 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Domácí</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/MmkmI.png?fl=cro,0,132,1834,1031|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55642</g:id>
+      <g:price>1</g:price>
+      <g:description>Na úřadu podle policie vznikal nátlakový systém: Ber úplatky a část z nich odevzdávej. Jeden z úředníků si ale vše tajně zaznamenal.</g:description>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/znic-tu-nahravku-nebo-bude-problem-radili-hlavnimu-svedkovi-vydirani-a-korupce-na-prazske-hygiene-55642</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Znič tu nahrávku, nebo bude problém, radili hlavnímu svědkovi vydírání a korupce na pražské hygieně</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 08:00:00 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/IgjmR.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/IgjmR.jpeg?fl=cro,386,115,1507,847|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55644</g:id>
+      <g:price>1</g:price>
+      <g:description>Audiotechnologii zvanou ShotSpotter, jež dokáže přesně zaměřit místo, ze kterého vyšel výstřel, začala používat Jihoafrická republika v boji proti násilí na ulicích. Počet vražd v zemi je jeden z nejvyšších na světě. </g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/nova-technologie-dokaze-strelbu-ve-meste-zamerit-az-na-dva-metry-55644</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Nová technologie dokáže střelbu ve městě zaměřit až na dva metry</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 07:43:41 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/DYomb.jpeg?fl=cro,0,73,1000,562|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55710</g:id>
+      <g:price>1</g:price>
+      <g:description>Na plášti kosmické lodi Sojuz napojené k Mezinárodní vesmírné stanici našli ruští kosmonauti další stopy po vrtání. Díra, kterou objevili, je hluboká asi 15 milimetrů. Nález dvoumilimetrového vrtu na konci srpna vyvolal roztržku mezi Rusy a Američany.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/rusove-ohlasili-nalez-dalsi-vyvrtane-diry-v-plasti-mezinarodni-vesmirne-stanice-55710</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Rusové ohlásili nález další vyvrtané díry v plášti Mezinárodní vesmírné stanice</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 07:01:08 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_L/ruuBr.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55711</g:id>
+      <g:price>1</g:price>
+      <g:description>Česká policie obvinila za přípravu bombového teroristického útoku mladíka, který se podle kriminalistů přiklání k radikálnímu islámu. S odkazem na policejní spis to napsala dnešní Mladá fronta Dnes. Podle deníku mladík, který je původem Slovák a vystupuje pod jménem Abdul Rahman, chodil do pražských mešit.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/cesti-policiste-obvinili-slovaka-z-pripravy-teroristickeho-utoku-55711</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Čeští policisté obvinili Slováka z přípravy teroristického útoku</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 06:48:10 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/H4ymV.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/H4ymV.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55709</g:id>
+      <g:price>1</g:price>
+      <g:description>USA se připravují na příchod hurikánu Florence. V Severní a Jižní Karolíně se rozvodnily řeky a téměř sto tisíc lidí je bez proudu. </g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/hurikan-florence-zeslabl-na-1-stupen-ale-na-100-000-lidi-je-bez-proudu-55709</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Hurikán Florence zeslábl na 1. stupeň a dorazil k USA, na 100 000 lidí je bez proudu</g:title>
+      <g:custom_label_0>Fri, 14 Sep 2018 06:32:07 +0200</g:custom_label_0>
+    </item>
+  </channel>
+</rss>

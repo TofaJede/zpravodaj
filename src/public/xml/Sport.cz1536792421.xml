@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:szn="https://www.seznam.cz" xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <image>
+        <link>https://www.sport.cz/</link>
+            <title>Sport.cz - Hlavní stránka</title>
+            <url>https://www.sport.cz/img/sport-nav-logo.png</url>
+            <width>126</width>
+            <height>20</height>
+        </image>
+        <title>Sport.cz - Hlavní stránka</title>
+        <link>https://www.sport.cz/</link>
+        <description>Sport.cz - sportovní zpravodajský server</description>
+        <language>cs</language>
+        <atom:link href="https://www.sport.cz/rss2/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Víc než jen vítězství! Bojoval jsem za naše mrtvé dítě, říkal se slzami v očích kanadský cyklista</title>
+            <pubDate>Wed, 12 Sep 2018 20:37:36 GMT</pubDate>
+                <description><![CDATA[Bylo to pro něj vítězství, na které nikdy nezapomene. A zdaleka ne proto, že vyhrál těžkou etapu na slavné Vueltě. Kanadský cyklista Michael Woods totiž bojoval i za svoji rodinu. &amp;quot;Před dvěma měsíci se nám s manželkou narodilo mrtvé dítě,&amp;quot; říkal se slzami v očích jednatřicetiletý šampión.]]></description>
+                <guid>https://www.sport.cz/clanek/1021932-.html</guid>
+                <link>https://www.sport.cz/ostatni/cyklistika/clanek/1021932-vic-nez-jen-vitezstvi-bojoval-jsem-za-nase-mrtve-dite-rikal-se-slzami-v-ocich-kanadsky-cyklista.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000008909990562/vKeUk4y0Tklas16HlAMcuQ/5b9951cc4309e59c5f160100-262144.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000008909990564/vKeUk4y0Tklas16HlAMcuQ/5b9951cc4309e59c5f160100-262144.jpg</szn:bigImage>
+                <szn:video>https://v16-a.sdn.szn.cz/v_16/vmd/15705?fl=mdk,8a8a5aec|</szn:video>
+                <szn:videoPoster>https://media.sport.cz//videos/gallery/5b9956125345f4a719320000-15705.jpg</szn:videoPoster>
+                <szn:upDate>Wed, 12 Sep 2018 20:42:49 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Fotbalistům Chieva Verona opět hrozí odpočet 15 bodů</title>
+            <pubDate>Wed, 12 Sep 2018 20:40:08 GMT</pubDate>
+                <description><![CDATA[Fotbalistům Chieva Verona opět hrozí odpočet 15 bodů za podvody v účetnictví. V červenci klub od trestu a sestupu ze Serie A zachránila chyba vyšetřovatelů, kteří ji už ale napravili.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021954-.html</guid>
+                <link>https://www.sport.cz/fotbal/serie-a/clanek/1021954-fotbalistum-chieva-verona-opet-hrozi-odpocet-15-bodu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000005809990562/se_pKy34kpddLGLokNN_nQ/5b997983622fb8aae5630200-262146.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000005809990564/se_pKy34kpddLGLokNN_nQ/5b997983622fb8aae5630200-262146.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 20:40:08 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Kouč Advocaat se vrací do Utrechtu</title>
+            <pubDate>Wed, 12 Sep 2018 20:19:45 GMT</pubDate>
+                <description><![CDATA[Bývalý trenér nizozemské fotbalové reprezentace Dick Advocaat se vrací do Utrechtu, kde v roce 1984 zakončil hráčskou kariéru. Sedmdesátiletý kouč se s vedením klubu dohodl na působení ústně a v pondělí podepíše smlouvu.]]></description>
+                <guid>https://www.sport.cz/clanek/1021951-.html</guid>
+                <link>https://www.sport.cz/fotbal/ostatni/clanek/1021951-kouc-advocaat-se-vraci-do-utrechtu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000009990561/v_sMrzOZY6FgozFE9DZmcQ/5305be6d8034f92c23970100-173645.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000009990564/v_sMrzOZY6FgozFE9DZmcQ/5305be6d8034f92c23970100-173645.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 20:19:45 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Nepovedený vstup Sparty do Ligy mistryň</title>
+            <pubDate>Wed, 12 Sep 2018 19:27:41 GMT</pubDate>
+                <description><![CDATA[Fotbalistkám Sparty se nepovedl vstup do Ligy mistryň. České šampiónky v úvodním zápase prvního kola podlehly Ajaxu Amsterdam na jeho hřišti...]]></description>
+                <guid>https://www.sport.cz/clanek/1021942-.html</guid>
+                <link>https://www.sport.cz/fotbal/liga-mistru/clanek/1021942-nepovedeny-vstup-sparty-do-ligy-mistryn.html#rss</link>
+                <szn:image/>
+                <szn:bigImage/>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 19:27:41 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>První hokejová liga: Slavia dostala nařezáno a je poslední, vede nováček z Poruby</title>
+            <pubDate>Wed, 12 Sep 2018 18:47:44 GMT</pubDate>
+                <description><![CDATA[První hokejovou Chance ligu vede po neúplném třetím kole nováček z Poruby, který vyhrál 3:2 na ledě Havířova a na kontě má osm bodů. České Budějovice nasázely pět branek Slavii a v tabulce jim patří pátí místo, Kladno si doma poradilo doma se Vsetínem 5:2 a je jen o bod za lídrem.]]></description>
+                <guid>https://www.sport.cz/clanek/1021939-.html</guid>
+                <link>https://www.sport.cz/hokej/1liga/clanek/1021939-prvni-hokejova-liga-slavia-dostala-narezano-a-je-posledni-vede-novacek-z-poruby.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000008207110400/V__2Dixc35gQPwrIPQZLyg/5a9eecb320016b0380910100-252464.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000008207110401/V__2Dixc35gQPwrIPQZLyg/5a9eecb320016b0380910100-252464.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 18:47:44 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Džeko během reprezentačního srazu završil vysokoškolské studium</title>
+            <pubDate>Wed, 12 Sep 2018 04:22:57 GMT</pubDate>
+                <description><![CDATA[Útočník AS Řím Edin Džeko rozšířil sbírku svých úspěchů o vysokoškolský titul. Bosenský fotbalový reprezentant využil reprezentačního srazu a během návštěvy rodného Sarajeva složil zkoušky na tamní univerzitě, kde tři roky studoval sportovní management.]]></description>
+                <guid>https://www.sport.cz/clanek/1021688-.html</guid>
+                <link>https://www.sport.cz/fotbal/ostatni/clanek/1021688-dzeko-behem-reprezentacniho-srazu-zavrsil-vysokoskolske-studium.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000009990561/DBFClpG-9BLoss1wa4aCdA/5b79b81e37503571fcf70000-261017.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000009990564/DBFClpG-9BLoss1wa4aCdA/5b79b81e37503571fcf70000-261017.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 18:16:37 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Moskva volala marně. Anglická legenda odmítla milióny</title>
+            <pubDate>Wed, 12 Sep 2018 17:53:22 GMT</pubDate>
+                <description><![CDATA[Vydělat si za rok skoro 86 miliónů zní jako pohádka. Anglická fotbalová legenda však poslala královskou nabídku k ledu. Nouzové volání Spartaku Moskva směrem ke známému stoperovi vyšumělo do ztracena. I když původně vše vypadalo, že se sedmatřicetiletý John Terry, někdejší hvězda Chelsea, bude do Ruska stěhovat. Odletěl soukromým letadlem do Říma na zdravotní prohlídku, nakonec dal ale Spartaku košem.]]></description>
+                <guid>https://www.sport.cz/clanek/1021926-.html</guid>
+                <link>https://www.sport.cz/fotbal/premier-league/clanek/1021926-moskva-volala-marne-anglicka-legenda-odmitla-miliony.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0144006308550481/SSNND8CcyxPUq6OmlicgUg/5b994f04e5e1384e70f20100-262143.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0144006308550482/SSNND8CcyxPUq6OmlicgUg/5b994f04e5e1384e70f20100-262143.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 17:53:22 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Tvrdá odveta rozhodčích? Někteří sudí zvažují bojkot zápasů Sereny Williamsové</title>
+            <pubDate>Wed, 12 Sep 2018 17:07:56 GMT</pubDate>
+                <description><![CDATA[Konflikt Sereny Williamsové a hlavního rozhodčího Carlose Ramose během finále US Open nabírá na obrátkách. Zatímco na stranu americké tenistky se postavili přední zástupci WTA, portugalský sudí se ocitl v nezáviděníhodné situaci. Na základě smluvních ujednání se totiž nemohl k celé události blíže vyjádřit. To řádně rozčílilo jeho kolegy, kteří dokonce vyhrožují krajním řešením. Totiž bojkotem zápasů, ve kterých Serena nastoupí.]]></description>
+                <guid>https://www.sport.cz/clanek/1021905-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1021905-tvrda-odveta-rozhodcich-nekteri-sudi-zvazuji-bojkot-zapasu-sereny-williamsove.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000003509990562/stNTrgrtWXPd_Li_TT4RAA/5b9939e47895144420430200-262141.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000003509990564/stNTrgrtWXPd_Li_TT4RAA/5b9939e47895144420430200-262141.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 17:07:56 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Přestup Räikkönena do Sauberu? Jen zabírá místo talentovaným mladíkům, myslí si bývalý jezdec F1</title>
+            <pubDate>Wed, 12 Sep 2018 16:59:53 GMT</pubDate>
+                <description><![CDATA[Odchod Kimiho Räikkönena z Ferrari byl očekávaný, jeho přestup do Sauberu však mnohé překvapil. Osmatřicetiletý Fin se poté, co mu Ferrari neprodloužilo smlouvu, dohodl na dvouletém působení u švýcarské stáje, s níž v roce 2001 ve formuli 1 debutoval. Podle některých, ale svým setrváním v jiném týmu akorát blokuje místo mladým talentům.]]></description>
+                <guid>https://www.sport.cz/clanek/1021733-.html</guid>
+                <link>https://www.sport.cz/moto/formule1/clanek/1021733-prestup-raikkonena-do-sauberu-jen-zabira-misto-talentovanym-mladikum-mysli-si-byvaly-jezdec-f1.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0050011608890500/zEhR19CB326iXK2kTe8E_Q/5b98cad88fc5a4ad11310100-262130.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0050011608890502/zEhR19CB326iXK2kTe8E_Q/5b98cad88fc5a4ad11310100-262130.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 16:59:53 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Vácha dal gól Váchovi. Sparta buduje nový tým profíků, šanci mají i fanoušci</title>
+            <pubDate>Wed, 12 Sep 2018 16:35:34 GMT</pubDate>
+                <description><![CDATA[Letenští se rozhodli vstoupit do světa videoher. Fotbalová Sparta založí profesionální e-sport tým, který ji bude reprezentovat na domácích i světových turnajích ve videohře FIFA. Hraní na Play Station je čím dál populárnější a obdobný tým již mají Paris St. Germain, Manchester City, Ajax Amsterdam, AS Řím, Schalke, FC Kodaň či Legia Varšava.]]></description>
+                <guid>https://www.sport.cz/clanek/1021907-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1021907-vacha-dal-gol-vachovi-sparta-buduje-novy-tym-profiku-sanci-maji-i-fanousci.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000002709990562/qTDbgn_2dW0szyr8KwWoXg/56eb0f59bcbf92f5f83b0100-213717.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000002709990564/qTDbgn_2dW0szyr8KwWoXg/56eb0f59bcbf92f5f83b0100-213717.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 16:41:53 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Chtěl hrát na jistotu. Způsobil ale pohromu a ještě sklízí posměch</title>
+            <pubDate>Wed, 12 Sep 2018 16:01:41 GMT</pubDate>
+                <description><![CDATA[Už od žáčků se to hráčům vtlouká do hlavy: nepřihrávej na vlastní bránu, nepřihrávej na vlastní bránu.... A vždy se najde někdo, kdo pravidlo poruší a šeredně na to doplatí. Tak jako obránce katarského fotbalového týmu Al Arabí Aissa Madaní.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021814-.html</guid>
+                <link>https://www.sport.cz/fotbal/ostatni/clanek/1021814-chtel-hrat-na-jistotu-zpusobil-ale-pohromu-a-jeste-sklizi-posmech.html#rss</link>
+                <szn:image>https://media.sport.cz/videos/gallery/5b98f8097c443834d8fc0000-15699.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/videos/gallery/5b98f8097c443834d8fc0000-15699.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 16:01:41 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Brutální 17. etapu na Vueltě ovládl Woods. Yates na Valverdeho ztratil, ale červený dres udržel</title>
+            <pubDate>Wed, 12 Sep 2018 15:58:29 GMT</pubDate>
+                <description><![CDATA[Sedmnáctou etapu cyklistické Vuelty s extrémním stoupáním do cíle vyhrál Michael Woods. Lídr Simon Yates mírně ztratil, ale červený trikot udržel.]]></description>
+                <guid>https://www.sport.cz/clanek/1021909-.html</guid>
+                <link>https://www.sport.cz/ostatni/cyklistika/clanek/1021909-brutalni-17-etapu-na-vuelte-ovladl-woods-yates-na-valverdeho-ztratil-ale-cerveny-dres-udrzel.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0090012308420473/Y34yT0XxK34t7kLS19CV7g/5b994740e8d2da61efac0000-262142.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0090012308420475/Y34yT0XxK34t7kLS19CV7g/5b994740e8d2da61efac0000-262142.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 15:58:29 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Může překonat rekord. Za Bílé Tygry chci hrát, dokud to půjde, přeje si liberecký symbol věrnosti Derner</title>
+            <pubDate>Wed, 12 Sep 2018 12:42:26 GMT</pubDate>
+                <description><![CDATA[Za Tygry hraje od otevření nové arény a pod Ještědem se tak stal symbolem hokejové věrnosti. Obránce Lukáš Derner odstartuje v dresu Liberce svou čtrnáctou sezónu. V jejím závěru tak může překonat klubový rekord generálního manažera Ctibora Jecha v počtu 650 odehraných zápasů.]]></description>
+                <guid>https://www.sport.cz/clanek/1021830-.html</guid>
+                <link>https://www.sport.cz/hokej/extraliga/clanek/1021830-muze-prekonat-rekord-za-bile-tygry-chci-hrat-dokud-to-pujde-preje-si-liberecky-symbol-vernosti-derner.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000007990449/jjaC3AqOc-TcWAaIHOGnyA/510618e7a7725aaa0c6a0100-125725.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000007990449/jjaC3AqOc-TcWAaIHOGnyA/510618e7a7725aaa0c6a0100-125725.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 15:36:20 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Hrozná čekárna, tři dny tu zevluju. Útok na šesté zlato Synkovi komplikuje vítr</title>
+            <pubDate>Wed, 12 Sep 2018 15:34:47 GMT</pubDate>
+                <description><![CDATA[V neděli zahájil útok na své šesté světové zlato, ale od té doby nezávodí. Když měl skifař Ondřej Synek ve středu nastoupit ke čtvrtfinále, dozvěděl se, že část odpoledního programu se kvůli větru na kanále v Plovdivu ruší.]]></description>
+                <guid>https://www.sport.cz/clanek/1021887-.html</guid>
+                <link>https://www.sport.cz/ostatni/vodni-sporty/clanek/1021887-hrozna-cekarna-tri-dny-tu-zevluju-utok-na-seste-zlato-synkovi-komplikuje-vitr.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000008409990562/Klap-ArfHhwtFtSblTTdmQ/5b992c84a39353d1e4140200-262140.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000008409990564/Klap-ArfHhwtFtSblTTdmQ/5b992c84a39353d1e4140200-262140.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 15:34:47 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Dohoda je blízko! Reprezentaci bude léčit Šilhavý</title>
+            <pubDate>Wed, 12 Sep 2018 10:49:53 GMT</pubDate>
+                <description><![CDATA[Jmen padá více, favorit je však od začátku akce Vyberte nového trenéra pro národní tým jasný. Vedení Fotbalové asociace ČR jednalo o pozici kouče fotbalové reprezentace s Jaroslavem Šilhavým. Podle předsedy Martina Malíka je první volbou. „Začali jsme prioritně jednat s panem Jaroslavem Šilhavým o jeho případné pozici trenéra národního týmu,&amp;quot; potvrdil Malík pro server iDnes. Podle zákulisních informací již k dohodě došlo a Šilhavý by mohl být do funkce uveden v nejbližších dnech.]]></description>
+                <guid>https://www.sport.cz/clanek/1021800-.html</guid>
+                <link>https://www.sport.cz/fotbal/liga-narodu/clanek/1021800-dohoda-je-blizko-reprezentaci-bude-lecit-silhavy.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000002309990562/SI4DOi1NPsCdbsJxBHBHSQ/59bec0cf16b63b92ecd30200-243495.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000002309990564/SI4DOi1NPsCdbsJxBHBHSQ/59bec0cf16b63b92ecd30200-243495.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 15:33:24 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Jako Barcelona! Plzeň odehraje Ligu mistrů s logem Nadace transplantace kostní dřeně</title>
+            <pubDate>Wed, 12 Sep 2018 14:17:45 GMT</pubDate>
+                <description><![CDATA[Fotbalová Plzeň se chystá na Ligu mistrů, vstoupí do ní příští středu domácím duelem s CSKA Moskva. Při příležitosti třetího startu v prestižní soutěži se český mistr rozhodl, že potřetí podpoří Nadaci pro transplantace kostní dřeně (NTKD). Všech šest zápasů v základní skupině odehrají Limberský a spol. s logem nadace na dresech.]]></description>
+                <guid>https://www.sport.cz/clanek/1021846-.html</guid>
+                <link>https://www.sport.cz/fotbal/liga-mistru/clanek/1021846-jako-barcelona-plzen-odehraje-ligu-mistru-s-logem-nadace-transplantace-kostni-drene.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000002809990562/JWFcYUFYl1pynB95J-sIHw/5b991a3fa7e42f40bd370200-262138.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000002809990564/JWFcYUFYl1pynB95J-sIHw/5b991a3fa7e42f40bd370200-262138.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 15:00:50 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>I kráska Vonnová komentuje hádku Sereny Williamsové: Ósakaové mi bylo hrozně líto</title>
+            <pubDate>Wed, 12 Sep 2018 14:56:50 GMT</pubDate>
+                <description><![CDATA[Kauza kolem řádění tenistky Sereny Williamsové ve finále US Open i s odstupem několika dní budí emoce a stále se k ní vyjadřují další a další osobnosti. Mimo jiné třeba i lyžařská legenda Lindsey Vonnová, která o finálovém duelu mluvila na módní přehlídce v New Yorku.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021825-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1021825-i-kraska-vonnova-komentuje-hadku-sereny-williamsove-osakaove-mi-bylo-hrozne-lito.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000010409990562/f8r3kyRJiVbLNgoktmWaeQ/5b95567f28bbdab073070100-262020.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000010409990564/f8r3kyRJiVbLNgoktmWaeQ/5b95567f28bbdab073070100-262020.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 14:56:50 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Extraliga začíná. Jaké jsou největší změny v pravidlech?</title>
+            <pubDate>Wed, 12 Sep 2018 14:32:01 GMT</pubDate>
+                <description><![CDATA[Hokejová extraliga se po čtyřměsíční odmlce opět hlásí o slovo. V pátek začne 26. sezóna české nejvyšší soutěže, a proto jsme vybrali pět největších změn v pravidlech. Každou z nich svým komentářem doplnil šéf komise rozhodčích Vladimír Šindler. ]]></description>
+                <guid>https://www.sport.cz/clanek/1021833-.html</guid>
+                <link>https://www.sport.cz/hokej/extraliga/clanek/1021833-extraliga-zacina-jake-jsou-nejvetsi-zmeny-v-pravidlech.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000007990449/yasEbOoieoBERtoIBjigbA/510610da66b5fdd0e0bc0300-147098.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000007990451/yasEbOoieoBERtoIBjigbA/510610da66b5fdd0e0bc0300-147098.jpg</szn:bigImage>
+                <szn:video>https://v16-a.sdn.szn.cz/v_16/vmd/15704?fl=mdk,2817e326|</szn:video>
+                <szn:videoPoster>https://media.sport.cz//videos/gallery/5b99162aa4e25bbf518a0100-15704.jpg</szn:videoPoster>
+                <szn:upDate>Wed, 12 Sep 2018 14:37:52 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Brazilská divočina. Šampionát bez kempu, málem i bez diváků</title>
+            <pubDate>Wed, 12 Sep 2018 14:35:59 GMT</pubDate>
+                <description><![CDATA[Ve středu večer odlétají čeští vodní slalomáři na mistrovství světa do brazilského Ria, ale to je tak všechno, co o svém nejbližším programu vědí. Tréninkový kemp byl na poslední chvíli bez náhrady zrušen, v ohrožení byl i samotný šampionát, zvažovala se varianta, že se areál zavře jen pro závodníky a pojede se bez diváků…]]></description>
+                <guid>https://www.sport.cz/clanek/1021610-.html</guid>
+                <link>https://www.sport.cz/ostatni/vodni-sporty/clanek/1021610-brazilska-divocina-sampionat-bez-kempu-malem-i-bez-divaku.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000010009990562/fNdPyMkH5_ZDbr-Bjs5Ulg/5b97c9b79ba07ef20a060200-262104.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000010009990564/fNdPyMkH5_ZDbr-Bjs5Ulg/5b97c9b79ba07ef20a060200-262104.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 14:35:59 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Euforie odezněla, Rostov se ponořil do šampionátové nostalgie</title>
+            <pubDate>Wed, 12 Sep 2018 14:22:59 GMT</pubDate>
+                <description><![CDATA[Obrovité, červeně nasvícené ruské kolo si sice v tiše plynoucích vodách Donu zrcadlí dál, ale teď už se roztáčí výjimečně. Navečer, a ještě k tomu pouze párkrát. Už to prostě není jako ještě pár týdny, kdy na něm v jednom kuse řádili a povykovali belgičtí fanoušci doprovázející své Rudé ďábly při vítězném pochodu Ruskem od města k městu, zatímco takoví Japončíci si z výšin poskytujících výhled nad celý Rostov a řeku, která ho rozděluje, pořizovali selfíčka. To aby doma ukázali, že ruskou zemí putovali nejen za fotbalem, ale i za ruskou duší.]]></description>
+                <guid>https://www.sport.cz/clanek/1021680-.html</guid>
+                <link>https://www.sport.cz/fotbal/ostatni/clanek/1021680-euforie-odeznela-rostov-se-ponoril-do-sampionatove-nostalgie.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000018509990562/IcltQYeioAaMnQV0KbM97Q/5b98307ab5bab8083d200300-262118.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000018509990564/IcltQYeioAaMnQV0KbM97Q/5b98307ab5bab8083d200300-262118.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 14:22:59 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Půjdeme nahoru jako rakety, věří nový kouč Dukly. Syna ale zprávou nenadchl</title>
+            <pubDate>Wed, 12 Sep 2018 13:02:04 GMT</pubDate>
+                <description><![CDATA[Vstřebává pořádný trenérský veletoč. Před týdnem šokoval fotbalovou veřejnost, když předčasně skončil na lavičce Opavy, jenže dlouhého volna si 43letý Roman Skuhravý neužil. Už o dva dny později totiž režíroval v roli hlavního kouče první trénink pražské Dukly, která v lize zatím tone v bažinách. ]]></description>
+                <guid>https://www.sport.cz/clanek/1021809-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1021809-pujdeme-nahoru-jako-rakety-veri-novy-kouc-dukly-syna-ale-zpravou-nenadchl.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000004009990562/QMFoKEH08BkfBEg5RvXK4Q/5b990ec3190a0dff6ff90000-262137.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000004009990564/QMFoKEH08BkfBEg5RvXK4Q/5b990ec3190a0dff6ff90000-262137.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 13:02:04 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Zohorna se podílel na první výhře Chabarovsku v sezóně</title>
+            <pubDate>Wed, 12 Sep 2018 12:05:32 GMT</pubDate>
+                <description><![CDATA[Útočník Tomáš Zohorna pomohl gólem a asistencí vybojovat hokejistům Chabarovsku první vítězství v nové sezóně Kontinentální ligy. Amur doma zdolal Vladivostok 3:1 a připsal si první body po úvodních třech porážkách.]]></description>
+                <guid>https://www.sport.cz/clanek/1021949-.html</guid>
+                <link>https://www.sport.cz/hokej/kontinentalni-liga/clanek/1021949-zohorna-se-podilel-na-prvni-vyhre-chabarovsku-v-sezone.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000006609990562/pRs7VVCb5Iex2SE1DzdbvQ/58ee4748549ca84eb4600100-235865.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000006609990564/pRs7VVCb5Iex2SE1DzdbvQ/58ee4748549ca84eb4600100-235865.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 12:05:32 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Kapitán tenistů už přemýšlí o sestavě, Veselý hraje bez omezení</title>
+            <pubDate>Wed, 12 Sep 2018 11:49:36 GMT</pubDate>
+                <description><![CDATA[Kapitán Jaroslav Navrátil začíná mít před čtvrtečním losováním baráže tenisového Davisova poháru v Maďarku jasno o aktérech dvouher. Podstatné pro něj je, že po zranění hraje už bez omezení jednička týmu Jiří Veselý. Na antuce v Budapešti jsou ale ve hře i Lukáš Rosol a Adam Pavlásek.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021818-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1021818-kapitan-tenistu-uz-premysli-o-sestave-vesely-hraje-bez-omezeni.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000003109990562/PTErU_W8S2Yz5IwJXpDynQ/5b95232edac36d8b6ed00100-262006.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000003109990564/PTErU_W8S2Yz5IwJXpDynQ/5b95232edac36d8b6ed00100-262006.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 11:49:36 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Baník před Spartou hlásí: Vyprodáno!</title>
+            <pubDate>Wed, 12 Sep 2018 11:23:18 GMT</pubDate>
+                <description><![CDATA[Pondělní dohrávka fotbalové ligy mezi Baníkem Ostrava a pražskou Spartou se bude hrát před vyprodaným stadiónem. Domácí klub to oznámil na svých sociálních sítích. Diváci rozebrali kapacitu Městského stadionu hned v úvodním dnu předprodeje, v hledišti by tak mělo sedět zhruba 15 tisíc diváků.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021813-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1021813-banik-pred-spartou-hlasi-vyprodano.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000006709990562/_tOZy4kwJaR5MhMI2fX51A/5b71cf95bd111b7192930200-260740.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000006709990564/_tOZy4kwJaR5MhMI2fX51A/5b71cf95bd111b7192930200-260740.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 11:23:18 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Zlatý hattrick láká. Hokejisté Komety mají opět vysoké ambice</title>
+            <pubDate>Wed, 12 Sep 2018 11:21:27 GMT</pubDate>
+                <description><![CDATA[Uplynulé dva roky domácí extralize kralovali a i v nadcházející sezóně mají vysoké cíle. Brněnské hokejisty láká završit dalším titulem zlatý hattrick.]]></description>
+                <guid>https://www.sport.cz/clanek/1021812-.html</guid>
+                <link>https://www.sport.cz/hokej/extraliga/clanek/1021812-zlaty-hattrick-laka-hokejiste-komety-maji-opet-vysoke-ambice.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000006809990562/HePgPZuZpno08_tfjOoMmw/58c858a98ffb5ee7be6d0200-234296.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000006809990564/HePgPZuZpno08_tfjOoMmw/58c858a98ffb5ee7be6d0200-234296.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 11:21:27 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Mistr světa bez řidičáku! Za jízdu v opilosti dostal i pokutu</title>
+            <pubDate>Wed, 12 Sep 2018 11:01:31 GMT</pubDate>
+                <description><![CDATA[Kapitán fotbalových mistrů světa z Francie brankář Hugo Lloris byl za řízení v opilosti v Londýně odsouzen k pokutě 50 000 liber (téměř 1,5 miliónu korun) a na 20 měsíců přišel o řidičský průkaz. Gólman Tottenhamu při noční kontrole v centru města na konci srpna překročil více než dvojnásobně povolený limit alkoholu v těle.]]></description>
+                <guid>https://www.sport.cz/clanek/1021806-.html</guid>
+                <link>https://www.sport.cz/fotbal/ostatni/clanek/1021806-mistr-sveta-bez-ridicaku-za-jizdu-v-opilosti-dostal-i-pokutu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000005509990562/5MFHyKIQaZPq5JUTjOrrSA/5b8d474b677c0fd9940e0100-261708.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000005509990564/5MFHyKIQaZPq5JUTjOrrSA/5b8d474b677c0fd9940e0100-261708.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 11:01:31 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>České tenisové hvězdy mezi elitou. Uspějí Kvitová s Vondroušovou?</title>
+            <pubDate>Wed, 12 Sep 2018 10:58:27 GMT</pubDate>
+                <description><![CDATA[Hned pro dvě české hráčky mohou fanoušci hlasovat v tradičních měsíčních anketách Ženské tenisové asociace. V kategorii Průlom měsíce je mezi nominovanými talentovaná Markéta Vondroušová. V anketě Úder měsíce o vítězství usiluje Petra Kvitová za svůj nechytatelný bekhend ve čtvrtfinále na turnaji v Cincinnati.]]></description>
+                <guid>https://www.sport.cz/clanek/1021782-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1021782-ceske-tenisove-hvezdy-mezi-elitou-uspeji-kvitova-s-vondrousovou.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0261017406510366/L2wf_fjqnZv7HTBmjTkZ1A/5b8bde5c25b05976c5000100-261657.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0261017406510367/L2wf_fjqnZv7HTBmjTkZ1A/5b8bde5c25b05976c5000100-261657.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 10:58:27 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Nemilosrdná srážka! Českou hvězdičku zboural o dvacet kilo těžší soupeř</title>
+            <pubDate>Wed, 12 Sep 2018 10:40:20 GMT</pubDate>
+                <description><![CDATA[Nepříjemná srážka, která se navíc znásobila rychlostí obou hokejistů. Střídačce Detroitu, který se připravuje na NHL, zatrnulo. Nadějný český útočník Filip Zadina byl v utkání s Columbusem nekompromisně sestřelen ve třetí třetině. Byl otřesen, přesto se vrátil do utkání a naštěstí bude po ataku čtyřiadvacetiletého Justina Wadea v pořádku.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021765-.html</guid>
+                <link>https://www.sport.cz/hokej/nhl/clanek/1021765-nemilosrdna-srazka-ceskou-hvezdicku-zboural-o-dvacet-kilo-tezsi-souper.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000003809990562/HLtAajQSDaSZLLwSko66sg/5b98e0749e5167e62c3d0200-262133.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000003809990564/HLtAajQSDaSZLLwSko66sg/5b98e0749e5167e62c3d0200-262133.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 10:40:20 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Čiliak před historicky nejnižší návštěvou zářil v bráně Slovanu</title>
+            <pubDate>Wed, 12 Sep 2018 10:36:51 GMT</pubDate>
+                <description><![CDATA[Hrdinou úterního utkání Kontinentální hokejové ligy (KHL) mezi domácím Slovanem Bratislava a Severstalem Čerepovec byl jednoznačně brankář Marek Čiliak. Mírou vrchovatou se přičinil o první vítězství slovenského zástupce v aktuálním ročníku KHL.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021762-.html</guid>
+                <link>https://www.sport.cz/hokej/kontinentalni-liga/clanek/1021762-ciliak-pred-historicky-nejnizsi-navstevou-zaril-v-brane-slovanu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000005208990506/qzP-opseC73DpjcVOa6L-g/5b98dc0ef70a6fd57cf10200-262131.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000005208990507/qzP-opseC73DpjcVOa6L-g/5b98dc0ef70a6fd57cf10200-262131.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 10:36:51 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>GLOSA: Jarolím skončil, dva promarněné roky zůstaly </title>
+            <pubDate>Wed, 12 Sep 2018 09:47:46 GMT</pubDate>
+                <description><![CDATA[Jedna vyřčená věta stačila. „Mužstvo asi potřebuje nějaký impulz,“ připustil reprezentační kouč Karel Jarolím sám a o své vůli po blamáži s Ruskem v Rostovu na Donu. 
+]]></description>
+                <guid>https://www.sport.cz/clanek/1021764-.html</guid>
+                <link>https://www.sport.cz/fotbal/reprezentace/clanek/1021764-glosa-jarolim-skoncil-dva-promarnene-roky-zustaly.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000004709990562/cKFa4U6YbFje0hTfCRmnEg/5b96ca3702d7bd9a0fe10000-262096.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000001709990564/cKFa4U6YbFje0hTfCRmnEg/5b96ca3702d7bd9a0fe10000-262096.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Wed, 12 Sep 2018 09:47:46 GMT</szn:upDate>
+        </item>
+    </channel>
+</rss>

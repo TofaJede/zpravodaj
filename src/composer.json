@@ -1,0 +1,17 @@
+{
+    "require": {
+        "slim/slim": "^3.10",
+        "monolog/monolog": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": ["class/","class/handler/"],
+            "App\\Handlers\\": "class/handler/",
+            "Model\\": "class/model/",
+            "App\\Controller\\": "class/controller/",
+            "App\\Controller\\Admin\\": "class/controller/admin",
+            "Genkgo\\Xsl\\" : ["class/xsl"],
+            "App\\Twitter\\" : ["class/twitter"]
+        }
+    }
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Seznam Zprávy - nejnovější články</title>
+    <link>https://www.seznamzpravy.cz</link>
+    <description>Seznam Zprávy - nejnovější články</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 12 Sep 2018 18:28:55 +0000</lastBuildDate>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/Raplc.jpeg?fl=cro,0,93,1800,1012|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55589</g:id>
+      <g:price>1</g:price>
+      <g:description>Amnesty International (AI), celosvětová organizace monitorující porušování lidských práv, naléhá na vládu Spojených států, aby zpřísnila zákon o držení zbraní. Navrhuje přitom několik podmínek, které by měl zákon obsahovat, jako například věkovou hranici nebo národní registr zbraní. </g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/krize-lidskych-prav-ai-tlaci-na-prosazeni-tvrdsiho-zakona-o-drzeni-zbrani-v-usa-55589</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Krize lidských práv. AI tlačí na prosazení tvrdšího zákona o držení zbraní v USA</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 20:18:14 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/AuKlp.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Výzva</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/AuKlp.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55556</g:id>
+      <g:price>1</g:price>
+      <g:description>Třicet procent lidí v Česku si myslí, že ke globální změně klimatu nedochází a že se vědci nedokážou shodnout, jestli za ni může člověk. To je důsledek taktiky českých klimaskeptiků, tvrdí sociolog Petr Vidomus.</g:description>
+      <g:google_product_category>Výzva</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/cesti-odpurci-globalniho-oteplovani-zaseli-mezi-lidi-nejistotu-klausova-strategie-ma-uspech-rika-sociolog-55556</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Čeští odpůrci globálního oteplování zaseli mezi lidi nejistotu. Klausova strategie má úspěch, říká sociolog</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 20:00:00 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/zxhlb.jpeg?fl=cro,0,144,3000,1687|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55588</g:id>
+      <g:price>1</g:price>
+      <g:description>Britské ministerstvo zdravotnictví a sociální péče potvrdilo, že jsou infekčním onemocněním nakažení dva lidé.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/vzacny-virus-opicich-nestovic-se-objevil-ve-velke-britanii-55588</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Vzácný virus opičích neštovic se objevil ve Velké Británii</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 19:22:47 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_J/TQITT.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Večerní zprávy</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_J/TQITT.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55586</g:id>
+      <g:price>1</g:price>
+      <g:description>Hlavní zpravodajská relace Televize Seznam.</g:description>
+      <g:google_product_category>Večerní zprávy</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/korupce-na-prazske-hygiene-nebezpecna-droga-na-ostravsku-a-nova-smernice-o-copyrightu-55586</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Korupce na pražské hygieně, nebezpečná droga na Ostravsku a nová směrnice o copyrightu</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 19:15:20 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/mYilh.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Slavní</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/mYilh.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55580</g:id>
+      <g:price>1</g:price>
+      <g:description>Jeden z nejúspěšnějších tuzemských muzikálů Galileo se po 15 letech vrací na divadelní prkna, do Divadla Hybernia v Praze. Producentem a zároveň jedním z představitelů hlavní role je zpěvák Janek Ledecký.</g:description>
+      <g:google_product_category>Slavní</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/muzikal-galileo-je-zpet-v-unoru-se-predstavi-v-puvodnim-hvezdnem-obsazeni-55580</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Muzikál Galileo je zpět! V únoru se představí v původním hvězdném obsazení</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 18:49:00 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/bvGl5.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Domácí</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/bvGl5.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55571</g:id>
+      <g:price>1</g:price>
+      <g:description>Podle mladoboleslavského primátora způsobují devět z deseti přestupků ve městě cizinci. Jde zejména o dělníky pracující v místní automobilce. O zvýšení bezpečnosti se snaží jak samotné město, tak i Ministerstvo vnitra nebo Škoda Auto.</g:description>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/prestupky-cizincu-v-mlade-boleslavi-resi-vnitro-i-skoda-auto-straznici-nafasovali-neprustrelne-vesty-55571</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Přestupky cizinců v Mladé Boleslavi řeší vnitro i Škoda Auto. Strážníci nafasovali neprůstřelné vesty</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 18:01:16 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/D5SlW.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55578</g:id>
+      <g:price>1</g:price>
+      <g:description>V reakci na nekončící sérii skandálů se sexuálním zneužíváním dětí církevními hodnostáři svolal papež František bezprecedentní schůzku hlav katolické církve. Na programu má být především prevence a ochrana dětí do budoucna.</g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/papez-frantisek-svolal-mimoradnou-schuzku-kvuli-sexualnimu-zneuzivani-deti-knezimi-55578</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Papež František svolal mimořádnou schůzku kvůli sexuálnímu zneužívání dětí kněžími</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 17:28:23 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Zahraniční</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/bjDlM.jpeg?fl=cro,0,169,1800,1013|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55562</g:id>
+      <g:price>1</g:price>
+      <g:description>Podle hanojských úřadů poškozuje prý konzumace masa reputaci města a přispívá k šíření nemocí. Vyzvaly proto obyvatele, aby se konzumace masa zdrželi. Část veřejnosti výzvu úřadů vítá, jiní tvrdí, že se Vietnamci konzumace psího a kočičího masa jen tak nevzdají, protože je zvyk ve společnosti hluboce zakořeněn. </g:description>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/hanojske-urady-vyzyvaji-obyvatele-aby-nejedli-psi-maso-55562</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Hanojské úřady vyzývají obyvatele, aby nejedli psí maso</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 16:52:02 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/ag5ly.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Slavní</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/ag5ly.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55577</g:id>
+      <g:price>1</g:price>
+      <g:description>Zpěvák Tomáš Savka se patnáct let od první SuperStar hodně proměnil. Z kluka se stal muž, etabloval se na hudební scéně a před pár dny se stal poprvé otcem. </g:description>
+      <g:google_product_category>Slavní</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/tomas-savka-ma-15-let-od-superstar-vysnene-povolani-a-prvni-dite-55577</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Tomáš Savka má 15 let od SuperStar vysněné povolání a první dítě</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 16:35:00 +0200</g:custom_label_0>
+    </item>
+    <item>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:condition>new</g:condition>
+      <g:brand>Domácí</g:brand>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/Oatlw.jpeg?fl=cro,0,605,4032,2268|res,1200,,3|jpg,80</g:image_link>
+      <g:id>55555</g:id>
+      <g:price>1</g:price>
+      <g:description>Na Pražském hradě se sešly špičky tuzemské politiky, aby sladily postoje v zahraniční politice. Výsledkem je prohlášení, do něhož se hlavě státu nepodařilo vpašovat svou vstřícnost k Rusku.</g:description>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:link>https://www.seznamzpravy.cz/clanek/zeman-babis-a-spol-se-domluvili-na-pokracovani-ruskych-sankci-a-velvyslanectvi-v-jeruzaleme-55555</g:link>
+      <g:availability>in stock</g:availability>
+      <g:title>Zeman tlačil na zmírnění protiruských sankcí, u politiků narazil</g:title>
+      <g:custom_label_0>Wed, 12 Sep 2018 16:01:42 +0200</g:custom_label_0>
+    </item>
+  </channel>
+</rss>

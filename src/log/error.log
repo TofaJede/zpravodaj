@@ -1,0 +1,15 @@
+Caught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'slaskouniki.sitinfo' doesn't exist in /Users/krystofkosut/www/OSIA/slimApp/src/class/test.php:24
+Stack trace:
+#0 /Users/krystofkosut/www/OSIA/slimApp/src/class/test.php(24): PDO->query('SELECT * FROM s...')
+#1 /Users/krystofkosut/www/OSIA/slimApp/src/public/index.php(87): App\test->testDatabase()
+#2 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#5 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/App.php(513): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/App.php(406): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /Users/krystofkosut/www/OSIA/slimApp/src/vendor/slim/slim/Slim/App.php(314): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /Users/krystofkosut/www/OSIA/slimApp/src/public/index.php(92): Slim\App->run()
+#12 {main}

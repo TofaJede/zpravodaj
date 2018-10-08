@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Seznam Zprávy - nejnovější články</title>
+    <link>https://www.seznamzpravy.cz</link>
+    <description>Seznam Zprávy - nejnovější články</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 13 Sep 2018 13:12:31 +0000</lastBuildDate>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/bkGly.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/bkGly.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Rodinka</g:brand>
+      <g:id>55626</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/velicopedy-se-vraci-do-mody-padu-se-ale-zadny-cyklista-nevyhne-55626</g:link>
+      <g:title>Velicopédy se vrací do módy, pádu se ale žádný cyklista nevyhne</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 14:41:00 +0200</g:custom_label_0>
+      <g:google_product_category>Rodinka</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>První kolo o průměru až metr a půl, druhé kolo mnohonásobně menší. To je velocipéd, bicykl, který známe především z historických fotografií. </g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/gpmln.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/gpmln.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Zahraniční</g:brand>
+      <g:id>55625</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/weinstein-poprve-na-videu-zalujici-podnikatelka-zverejnila-zaznam-ze-schuzky-s-producentem-55625</g:link>
+      <g:title>Weinstein poprvé na videu. Žalující podnikatelka zveřejnila záznam ze schůzky s producentem</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 14:15:00 +0200</g:custom_label_0>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Producent Harvey Weinstein byl zachycen na videu, které ukazuje jeho nevhodné chování vůči podnikatelce Melisse Thompsonové během pracovní schůzky. Video získala britská televizní stanice SkyNews. </g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/uS7mF.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/uS7mF.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Slavní</g:brand>
+      <g:id>55635</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/zapomenute-hvezdy-co-dnes-delaji-joanna-a-sam-z-filmu-laska-nebeska-55635</g:link>
+      <g:title>Zapomenuté hvězdy: Co dnes dělají Joanna a Sam z filmu Láska nebeská?</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 14:00:00 +0200</g:custom_label_0>
+      <g:google_product_category>Slavní</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Láska nebeská je filmem plným hvězd. Kromě jmen jako Keira Knightley, Colin Firth, Emma Thompsonová či Hugh Grant jsou tu ale i tací, na které díky jejich výkonu nikdy nezapomeneme, ale nevíme, co je s nimi dnes. A není to nikdo jiný než představitelé Sama a Joanny, kteří ve filmu prožívají svou první „lásku nebeskou“.</g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_L/fmFBW.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_L/fmFBW.png?fl=cro,343,0,1339,754|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Zahraniční</g:brand>
+      <g:id>55637</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/v-salisbury-jsme-byli-jako-turiste-tvrdi-rusove-podezreli-z-utoku-na-skripalovy-55637</g:link>
+      <g:title>V Salisbury jsme byli jako turisté, tvrdí Rusové podezřelí z útoku na Skripalovy</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 13:32:18 +0200</g:custom_label_0>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Dva hlavní podezřelí poskytli rozhovor ruské televizní stanici RT. Popřeli v něm, že by byli agenty ruské tajné služby GRU nebo že by do Velké Británie přivezli Novičok. </g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/8O9lm.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/8O9lm.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Zahraniční</g:brand>
+      <g:id>55629</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/katolicka-cirkev-v-nemecku-potvrdila-temer-4-tisice-pripadu-sexualniho-zneuzivani-deti-duchovnimi-55629</g:link>
+      <g:title>Katolická církev v Německu potvrdila téměř 4 tisíce případů sexuálního zneužívání dětí duchovními</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 13:23:21 +0200</g:custom_label_0>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Německá katolická církev nechala zhotovit studii zaznamenávající tisíce dalších případů sexuálního zneužívání kněžími za posledních 60 let. Do médií se dostala ještě před oficiálním zveřejněním.</g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/A6xl4.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/A6xl4.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Duel</g:brand>
+      <g:id>55633</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/uchazec-o-hrad-fischer-versus-babisuv-exministr-financi-pilny-bojuji-o-senat-55633</g:link>
+      <g:title>Uchazeč o Hrad Fischer versus Babišův exministr financí Pilný bojují o Senát</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 13:00:16 +0200</g:custom_label_0>
+      <g:google_product_category>Duel</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Pikantní souboj o senátorské křeslo nabízí Praha 12. Vedle Marty Semelové z KSČM a bývalého odboráře Františka Dobšíka tam kandiduje ústavní právník Aleš Gerloch. K největším favoritům patří dva dnešní hosti Duelu - bývalý prezidentský kandidát Pavel Fischer a exministr financí Ivan Pilný.</g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/5y2ka.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/5y2ka.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Domácí</g:brand>
+      <g:id>55418</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/z-vlcaka-pokojoveho-pince-neudelate-rika-o-podnikani-miliardar-briza-55418</g:link>
+      <g:title>Z vlčáka pokojového pinče neuděláte, říká o podnikání miliardář Bříza</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 13:00:00 +0200</g:custom_label_0>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Vládne impériu Koh-i-noor. Musíte se smířit s tím, že vás nebude mít rád každý, radí začínajícím podnikatelům.</g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_J/QJGBJJ.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Domácí</g:brand>
+      <g:id>55634</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/ministr-se-s-odbory-nedohodl-na-rustu-platu-zdravotniku-55634</g:link>
+      <g:title>Ministr se s odbory nedohodl na růstu platů zdravotníků</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 12:30:34 +0200</g:custom_label_0>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Nabízel jim sedm procent do tarifních platů zaměstnanců v příspěvkových organizacích ministerstva. Odbory chtěly deset procent pro všechny, jak jim slíbila předchozí vláda. </g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_L/ZdgBS.jpeg?fl=cro,0,74,1800,1013|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Sport</g:brand>
+      <g:id>55627</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/po-grandslamovem-triumfu-obri-smlouva-s-adidasem-osakaova-se-zaradi-mezi-nejlepe-placene-sportovkyne-55627</g:link>
+      <g:title>Po grandslamovém triumfu obří smlouva s Adidasem. Ósakaová se zařadí mezi nejlépe placené sportovkyně</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 12:30:31 +0200</g:custom_label_0>
+      <g:google_product_category>Sport</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Naomi Ósakaová si svým triumfem na US Open kromě sportovního úspěchu připsala také jeden obchodní zářez. Na spadnutí je její sponzorská smlouva se značkou sportovního oblečení Adidas, která nemá ve světě ženského tenisu obdoby. </g:description>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:price>1</g:price>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/EOqlp.jpeg?fl=cro,0,147,1800,1012|res,1200,,3|jpg,80</g:image_link>
+      <g:brand>Zahraniční</g:brand>
+      <g:id>55632</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/sef-nemecke-tajne-sluzby-zrejme-predaval-informace-krajne-pravicove-alternative-pro-nemecko-55632</g:link>
+      <g:title>Šéf německé tajné služby zřejmě předával informace krajně pravicové Alternativě pro Německo</g:title>
+      <g:custom_label_0>Thu, 13 Sep 2018 12:24:47 +0200</g:custom_label_0>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:availability>in stock</g:availability>
+      <g:description>Poslanec za AfD Stephan Brandner v pořadu veřejnoprávní televize ARD řekl, že při schůzce Hans-Georg Maassen předával informace z výroční zprávy tajné služby ještě před jejím publikováním. </g:description>
+    </item>
+  </channel>
+</rss>

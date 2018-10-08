@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:szn="https://www.seznam.cz" xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <image>
+        <link>https://www.sport.cz/</link>
+            <title>Sport.cz - Hlavní stránka</title>
+            <url>https://www.sport.cz/img/sport-nav-logo.png</url>
+            <width>126</width>
+            <height>20</height>
+        </image>
+        <title>Sport.cz - Hlavní stránka</title>
+        <link>https://www.sport.cz/</link>
+        <description>Sport.cz - sportovní zpravodajský server</description>
+        <language>cs</language>
+        <atom:link href="https://www.sport.cz/rss2/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Synek na šestý titul mistra světa nedosáhl, v Plovdivu si dojel pro stříbro</title>
+            <pubDate>Sun, 16 Sep 2018 08:30:15 GMT</pubDate>
+                <description><![CDATA[Veslař Ondřej Synek na veslařském MS v Plovdivu získal stříbrnou medaili na skifu. Ve finále šampionátu v Plovdivu skončil druhý za Norem Kjetilem Borchem.]]></description>
+                <guid>https://www.sport.cz/clanek/1022862-.html</guid>
+                <link>https://www.sport.cz/ostatni/ostatni/clanek/1022862-synek-na-sesty-titul-mistra-sveta-nedosahl-v-plovdivu-si-dojel-pro-stribro.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000009990561/azud8aLh3TNih-11qb6guA/592908b77f6bf69061f40100-238484.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000009990564/azud8aLh3TNih-11qb6guA/592908b77f6bf69061f40100-238484.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 09:15:45 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Na senzaci nedošlo, titul v Hirošimě získala zkušená Tchajwanka</title>
+            <pubDate>Sun, 16 Sep 2018 06:15:00 GMT</pubDate>
+                <description><![CDATA[Tenisový turnaj v Hirošimě vyhrála druhá nasazená Sie Šu-wej z Tchaj-wanu a získala třetí singlový titul v kariéře. Ve finále zdolala...]]></description>
+                <guid>https://www.sport.cz/clanek/1022838-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1022838-na-senzaci-nedoslo-titul-v-hirosime-ziskala-zkusena-tchajwanka.html#rss</link>
+                <szn:image/>
+                <szn:bigImage/>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 08:30:49 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Nemáme hvězdy, ale budeme bojovat, říká chomutovský útočník Skokan</title>
+            <pubDate>Sun, 16 Sep 2018 08:25:40 GMT</pubDate>
+                <description><![CDATA[Slovenský útočník Dávid Skokan se postaral o zápletku v zápase hokejistů Chomutova v prvním kole extraligy s Kometou Brno. Svým vyrovnávacím gólem na 2:2 na chvíli znejistil favorita, nakonec ale Piráti na bodový zisk nedosáhli. „Jsme týmem bojovníků a nic nevzdáváme,“ řekl Skokan k rozbíhajícímu se extraligovému ročníku.]]></description>
+                <guid>https://www.sport.cz/clanek/1022849-.html</guid>
+                <link>https://www.sport.cz/hokej/extraliga/clanek/1022849-nemame-hvezdy-ale-budeme-bojovat-rika-chomutovsky-utocnik-skokan.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000004909990562/N7rdWRmKD8oFUiOqV1H7pA/5b9d31eb9923743c39b80100-262305.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000004909990564/N7rdWRmKD8oFUiOqV1H7pA/5b9d31eb9923743c39b80100-262305.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 08:25:40 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Hokejisté Pittsburghu se na čas musejí obejít bez trenéra</title>
+            <pubDate>Sun, 16 Sep 2018 07:52:47 GMT</pubDate>
+                <description><![CDATA[Hokejisté Pittsburghu se musejí v úvodu společné přípravy na novou sezónu NHL obejít bez trenéra Mika Sullivana. Padesátiletý kouč si vzal osobní volno, aby mohl být s rodinou poté, co mu v sobotu zemřel otec. Tréninky Penguins zatím povede asistent Jacques Martin, bývalý hlavní kouč St. Louis, Ottawy, Montrealu a Floridy.]]></description>
+                <guid>https://www.sport.cz/clanek/1022853-.html</guid>
+                <link>https://www.sport.cz/hokej/nhl/clanek/1022853-hokejiste-pittsburghu-se-na-cas-museji-obejit-bez-trenera.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000001509990562/TYMYjh4oa-DAa9IKauoaqA/55196a1dc7cba10ba8270100-193996.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000001509990564/TYMYjh4oa-DAa9IKauoaqA/55196a1dc7cba10ba8270100-193996.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 07:52:47 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Zadina v boji o NHL: Rozpačitý start a zklamání střídá nalezený střelecký apetit a povýšení</title>
+            <pubDate>Sun, 16 Sep 2018 07:51:33 GMT</pubDate>
+                <description><![CDATA[Šestka letošního draftu NHL Filip Zadina do Turnaje prospektů, který hostilo Traverse City v Michiganu, nastoupil s velkým očekáváním, bylo však znát, že se stále rozkoukává. „Teď už se na ledě cítím mnohem lépe než během turnaje,“ řekl však Zadina v průběho následného tréninkového kempu Detroitu Red Wings.]]></description>
+                <guid>https://www.sport.cz/clanek/1022839-.html</guid>
+                <link>https://www.sport.cz/hokej/nhl/clanek/1022839-zadina-v-boji-o-nhl-rozpacity-start-a-zklamani-strida-nalezeny-strelecky-apetit-a-povyseni.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0001007209990562/mZ6YvnLYh6J2z7jw4KNXvA/5b9e0513140eeedd0c2e0100-262321.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0001007209990564/mZ6YvnLYh6J2z7jw4KNXvA/5b9e0513140eeedd0c2e0100-262321.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 07:51:33 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Ibrahimovic dal 500. gól v kariéře, a stálo to za to! Dočkal má klubový rekord</title>
+            <pubDate>Sun, 16 Sep 2018 07:13:49 GMT</pubDate>
+                <description><![CDATA[Švédský fotbalista Zlatan Ibrahimovic vstřelil 500. gól kariéry. V sobotním utkání zámořské ligy MLS však hvězdný útočník jen zmírnil porážku Los Angeles Galaxy 3:5 na hřišti Toronta. Na 500 branek v klubových a reprezentačních zápasech z aktivních hráčů dosáhli už jen Cristiano Ronaldo a Lionel Messi.]]></description>
+                <guid>https://www.sport.cz/clanek/1022841-.html</guid>
+                <link>https://www.sport.cz/fotbal/ostatni/clanek/1022841-ibrahimovic-dal-500-gol-v-kariere-a-stalo-to-za-to-dockal-ma-klubovy-rekord.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000003809990562/XgzdCZr27PeUyePa1X7FQw/599ed7767b55ced1710d0100-242255.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000003809990564/XgzdCZr27PeUyePa1X7FQw/599ed7767b55ced1710d0100-242255.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 07:13:49 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Bayern sčítá zranění. Na několik měsíců přišel o mistra světa</title>
+            <pubDate>Sun, 16 Sep 2018 06:13:57 GMT</pubDate>
+                <description><![CDATA[Bayern Mnichov přišel na delší dobu o francouzského mistra světa Corentina Tolissa. Čtyřiadvacetiletý záložník si v sobotním bundesligovém utkání proti Leverkusenu (3:1) přetrhl zkřížený vaz v pravém koleni a čeká ho několikaměsíční pauza.]]></description>
+                <guid>https://www.sport.cz/clanek/1022830-.html</guid>
+                <link>https://www.sport.cz/fotbal/bundesliga/clanek/1022830-bayern-scita-zraneni-na-nekolik-mesicu-prisel-o-mistra-sveta.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000009990561/r_2Pd8QRmF7jjHbjckqgAw/5b9df4e7079dab86fa8c0100-262319.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000009990564/r_2Pd8QRmF7jjHbjckqgAw/5b9df4e7079dab86fa8c0100-262319.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 06:13:57 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Csaplárova zpověď: To já pustil Matouška. Reprezentaci bych vzal</title>
+            <pubDate>Sun, 16 Sep 2018 05:54:15 GMT</pubDate>
+                <description><![CDATA[Příbramský kouč Josef Csaplár byl spokojený se ziskem tří bodů v sobotním duelu se Sigmou Olomouc po výhře 1:0. Kromě toho se rozhovořil o odchodu Jana Matouška do Slavie, výchově mladých hráčů v příbramské akademii, ale také o reprezentaci a problémech českého fotbalu.]]></description>
+                <guid>https://www.sport.cz/clanek/1022816-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022816-csaplarova-zpoved-to-ja-pustil-matouska-reprezentaci-bych-vzal.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000002409990562/euO67S1lIoyWZvyktRuYNg/5b79cb54a15d4acc60fc0000-261020.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000002409990564/euO67S1lIoyWZvyktRuYNg/5b79cb54a15d4acc60fc0000-261020.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 05:54:15 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Lezení po skalách, skoky do jezera za tisíce. Bitvy o slávu a tituly přátelství neničí</title>
+            <pubDate>Sun, 16 Sep 2018 05:14:54 GMT</pubDate>
+                <description><![CDATA[Bojují o vteřiny, slávu a v neposlední řadě i peníze plynoucí z kontraktů, o něž zápolí. Automobilový pilot Jan Kopecký už desátou sezónu závodí za tovární tým Škoda Motorsport. Po jeho boku se za tu dobu vystřídalo sedm parťáků. Vždy soupeřili o vítězství v šampionátu, jehož se mladoboleslavský tým účastnil. Ničí rivalita za dané konstelace vzájemné vztahy?]]></description>
+                <guid>https://www.sport.cz/clanek/1022401-.html</guid>
+                <link>https://www.sport.cz/moto/rallye/clanek/1022401-lezeni-po-skalach-skoky-do-jezera-za-tisice-bitvy-o-slavu-a-tituly-pratelstvi-nenici.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000009309990562/XoFvG_eMGX7TreTRKLUOyA/5b9bbcef58fba2aa4d180200-262232.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000009309990564/XoFvG_eMGX7TreTRKLUOyA/5b9bbcef58fba2aa4d180200-262232.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sun, 16 Sep 2018 05:14:54 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Barcelona opět vyhrála, Atlético prožívá nejhorší start za 9 let</title>
+            <pubDate>Sat, 15 Sep 2018 12:57:28 GMT</pubDate>
+                <description><![CDATA[Fotbalisté Realu Madrid, kteří jsou jedním ze soupeřů Plzně v Lize mistrů, ve španělské lize jen remizovali 1:1 v Bilbau a poprvé ztratili body. Po čtyřech kolech je naopak stoprocentní Barcelona, která porazila 2:1 San Sebastian. Nedaří se Atléticu Madrid, které zachránilo remízu 1:1 s Eibarem až v nastavení. Úřadující vicemistr prožívá nejhorší vstup do sezony od roku 2009. ]]></description>
+                <guid>https://www.sport.cz/clanek/1022647-.html</guid>
+                <link>https://www.sport.cz/fotbal/la-liga/clanek/1022647-barcelona-opet-vyhrala-atletico-proziva-nejhorsi-start-za-9-let.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000003109990562/a6Nd4DeD1gFFMrjhmhmGHA/5b9d343f848eb1c6c2af0100-262306.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000003109990564/a6Nd4DeD1gFFMrjhmhmGHA/5b9d343f848eb1c6c2af0100-262306.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 21:03:12 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Kašleme na video, když nemáme techniku ukazující věci jasně, nazlobil Vrbu neuznaný gól</title>
+            <pubDate>Sat, 15 Sep 2018 21:00:19 GMT</pubDate>
+                <description><![CDATA[Stoupal si na špičky, natahoval krk, ale na monitor stojící pár metrů od jeho trenérské zóny stejně neviděl. „Takže jsem byl jen pěkně zpocený a cítil bezmoc,“ šel s pravdou ven nový opavský trenér Ivan Kopecký při líčení pocitů, které jím cloumaly čtyři pět minut před koncem duelu na hřišti Plzně. To když se hlavní sudí Ondřej Berka po konzultaci s kolegy v přenosovém voze a apelech domácích hráčů odebral přece jen k obrazovce, aby posoudil, zda opavský Zapalač v souboji s Hrošovským rukou v pokutovém území hrál, či nikoli.]]></description>
+                <guid>https://www.sport.cz/clanek/1022806-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022806-kasleme-na-video-kdyz-nemame-techniku-ukazujici-veci-jasne-nazlobil-vrbu-neuznany-gol.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0027001109330525/Aq1o1XI9N25m_7VKh95l6A/5b9d5bdba3ccd81880000100-262317.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0027001109330527/Aq1o1XI9N25m_7VKh95l6A/5b9d5bdba3ccd81880000100-262317.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 21:00:19 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Až video a s prodlevou nařízená penalta pomohly Plzni k utrápené výhře nad nováčkem</title>
+            <pubDate>Sat, 15 Sep 2018 19:01:42 GMT</pubDate>
+                <description><![CDATA[Teprve gólem z penalty nařízené navíc až na základě videozáznamu, k němuž se sudí Berka na naléhání domácích hráčů nakonec přece jen odebral, zachránila mistrovská Plzeň duel s opavským nováčkem, v němž její trenér Pavel Vrba koučoval jubilejní dvoustý ligový zápas. Obhájci titulu se vůbec nepovedl, neboť si se soupeřem nevěděl rady a marně se snažil najít recept na jeho hru a vzdor. Před středečním vstupem na scénu Ligu mistrů prostě nic povzbudivého.... Nakonec ale Hrošovský proměněnou penaltou Viktorii přece jen zachránil tři body a návrat na první příčku neúplné tabulky.]]></description>
+                <guid>https://www.sport.cz/clanek/1022772-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022772-az-video-a-s-prodlevou-narizena-penalta-pomohly-plzni-k-utrapene-vyhre-nad-novackem.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000005109990562/dhJi09lnjGXSXrbsFRj6QQ/5b9d5a388966bdeedd450100-262315.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000005109990564/dhJi09lnjGXSXrbsFRj6QQ/5b9d5a388966bdeedd450100-262315.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 19:01:42 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Útok na první příčku Plzni vyšel, mistra spasila penalta. Příbram udolala Hanáky</title>
+            <pubDate>Sat, 15 Sep 2018 14:46:17 GMT</pubDate>
+                <description><![CDATA[Plzeňští fotbalisté se po sobotním programu 8. kola Fortuna ligy znovu vyhoupli na první příčku tabulky. V duelu s nováčkem z Opavy doma vstřelili jediný gól až v samém závěru z penalty a v čele soutěže tak předstihli do té doby vedoucí Zlín. Ve druhém sobotním zápasu zvítězila Příbram nad trápící se Olomoucí rovněž 1:0. Další čtyři utkání jsou na programu v neděli, kolo uzavře pondělní šlágr Baník Ostrava - Sparta.]]></description>
+                <guid>https://www.sport.cz/clanek/1022295-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022295-utok-na-prvni-pricku-plzni-vysel-mistra-spasila-penalta-pribram-udolala-hanaky.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0185001306620372/XRf5I6SLYCLWYkfoD_wt0Q/5b9d5a74700916ab724e0100-262316.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0185001306620373/XRf5I6SLYCLWYkfoD_wt0Q/5b9d5a74700916ab724e0100-262316.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 19:00:53 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Bayern vyhrál v bundeslize i potřetí</title>
+            <pubDate>Sat, 15 Sep 2018 15:36:15 GMT</pubDate>
+                <description><![CDATA[Fotbalisté Bayernu Mnichov porazili 2:1 Leverkusen a v německé lize jsou po třech kolech stále stoprocentní. Poprvé naopak ztratily body Hertha s Wolfsburgem po remíze 2:2 ve vzájemném utkání s divokým závěrem. Berlínský tým inkasoval poprvé v sezóně.
+]]></description>
+                <guid>https://www.sport.cz/clanek/1022706-.html</guid>
+                <link>https://www.sport.cz/fotbal/bundesliga/clanek/1022706-bayern-vyhral-v-bundeslize-i-potreti.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000003509990562/SYGxFOiLzlqoMeD5RHjyBg/5b9d293a3bfcbb4a8b630100-262297.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000003509990564/SYGxFOiLzlqoMeD5RHjyBg/5b9d293a3bfcbb4a8b630100-262297.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 18:34:24 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Liverpool a Chelsea vyhrály i popáté. Čech inkasoval v nastavení</title>
+            <pubDate>Sat, 15 Sep 2018 13:27:29 GMT</pubDate>
+                <description><![CDATA[Fotbalisté Liverpoolu dnes na hřišti Tottenhamu zvítězili 2:1 a vyhráli i pátý zápas v nové sezóně anglické ligy. Něco podobného se jim povedlo teprve potřetí v klubové historii a prožívají nejlepší vstup do soutěže od ročníku 1990/91.]]></description>
+                <guid>https://www.sport.cz/clanek/1022662-.html</guid>
+                <link>https://www.sport.cz/fotbal/premier-league/clanek/1022662-liverpool-a-chelsea-vyhraly-i-popate-cech-inkasoval-v-nastaveni.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000005209990562/sVKUTP-pYBHOe3E3jL5vhw/5b9d2bcf92abfd0009ac0200-262299.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000005209990564/sVKUTP-pYBHOe3E3jL5vhw/5b9d2bcf92abfd0009ac0200-262299.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 18:31:56 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Kladno i bez Jágra vyhrálo. Tabulku dál vede Poruba</title>
+            <pubDate>Sat, 15 Sep 2018 18:14:10 GMT</pubDate>
+                <description><![CDATA[Hokejisté Kladna bez Jaromíra Jágra porazili ve čtvrtém kole druhé nejvyšší soutěže Benátky nad Jizerou 6:3. Z výher se radovali i další favorité. České Budějovice uspěly v Přerově 3:1 a Jihlava si poradila s Kadaní 7:0. První místo nadále drží nováček z Poruby, který zdolal Ústí nad Labem 7:3 a v sezoně ještě neokusil porážku.]]></description>
+                <guid>https://www.sport.cz/clanek/1022783-.html</guid>
+                <link>https://www.sport.cz/hokej/1liga/clanek/1022783-kladno-i-bez-jagra-vyhralo-tabulku-dal-vede-poruba.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0266005406410360/8waTKchCwE8zb5KP0_izUA/5b9d54ae9fadfa78082c0400-262314.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0266005406410361/8waTKchCwE8zb5KP0_izUA/5b9d54ae9fadfa78082c0400-262314.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 18:14:10 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Jsme v době pomatouškovské, ale zvládli jsme to, oddechli si po výhře Příbramští</title>
+            <pubDate>Sat, 15 Sep 2018 17:58:06 GMT</pubDate>
+                <description><![CDATA[Příbram se dočkala vítězství a sedmatřicetiletý Miroslav Slepička je po odchodu Jana Matouška do Slavie jejím novým hrdinou. Pocity Hanáků byly po utkání na úplně opačném pólu...]]></description>
+                <guid>https://www.sport.cz/clanek/1022762-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022762-jsme-v-dobe-pomatouskovske-ale-zvladli-jsme-to-oddechli-si-po-vyhre-pribramsti.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0174005207570426/ozwoHte2YTDOEcvjVC13bg/5b9d2503171aa9e3b3230100-262295.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0174005207570427/ozwoHte2YTDOEcvjVC13bg/5b9d2503171aa9e3b3230100-262295.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 17:58:06 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Haškové litovali neproměněné penalty i ztracených bodů</title>
+            <pubDate>Sat, 15 Sep 2018 17:40:32 GMT</pubDate>
+                <description><![CDATA[Tři Haškové v akci. Otec Martin postavil v pátek do základu oba své syny - Martina mladšího i Filipa. Prvně jmenovaný se stal smutným hrdinou. Na kopačce měl dva góly, jenže slibnou šanci na hranici šestnáctky neproměnil a penaltu mu chytil zlínský gólman Stanislav Dostál, takže Bohemians 1905 museli spolknout hořkou pilulku v podobě druhé podzimní domácí porážky. Promarnili tak i šanci přiblížit se unikající pětici týmů nad nimi.]]></description>
+                <guid>https://www.sport.cz/clanek/1022729-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022729-haskove-litovali-nepromenene-penalty-i-ztracenych-bodu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000006009990562/pB0CkdgQ5FpH32BG1IdDaQ/5b9bf18538fb7b0d40800100-262263.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000006009990564/pB0CkdgQ5FpH32BG1IdDaQ/5b9bf18538fb7b0d40800100-262263.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 17:40:32 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Češi si v baráži Davis Cupu koledují o ostudu. Rosol s Jebavým nezvládli pětisetový boj</title>
+            <pubDate>Sat, 15 Sep 2018 13:40:23 GMT</pubDate>
+                <description><![CDATA[Čeští tenisté se v daviscupové baráži dostali překvapivě do velmi svízelné situace. Po dvou dnech prohrávají v Budapešti s Maďarskem 1:2. Lukáš Rosol s Romanem Jebavým sice vedli ve čtyřhře už 2:0 na sety, ale nakonec s párem Gabor Borsos, Peter Nagy prohráli 6:3, 6:4, 1:6, 2:6, 4:6. ]]></description>
+                <guid>https://www.sport.cz/clanek/1022634-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1022634-cesi-si-v-barazi-davis-cupu-koleduji-o-ostudu-rosol-s-jebavym-nezvladli-petisetovy-boj.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000009990561/wfivv_RNksr5b0C6GMzreA/5b9de4f8f764c5ebd9e20100-262318.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000009990564/wfivv_RNksr5b0C6GMzreA/5b9de4f8f764c5ebd9e20100-262318.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 17:30:55 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Nahodil oslavil návrat do Komety dvěma góly. Hlavně se chci udržet v sestavě, řekl střelec</title>
+            <pubDate>Sat, 15 Sep 2018 17:18:41 GMT</pubDate>
+                <description><![CDATA[Senzace se nekonala. Třebaže hokejisté Chomutova předvedli v dohrávce 1. kola extraligy s mistrovskou Kometou Brno bojovný výkon, tři body putovaly na Moravu. Obhájce titulu potvrdil svoji sílu i na ledě Pirátů a úvodní krok v sezóně zvládl bez zaváhání. Výhrou 4:2 se dobře naladil i na nedělní domácí souboj s Plzní. ]]></description>
+                <guid>https://www.sport.cz/clanek/1022754-.html</guid>
+                <link>https://www.sport.cz/hokej/extraliga/clanek/1022754-nahodil-oslavil-navrat-do-komety-dvema-goly-hlavne-se-chci-udrzet-v-sestave-rekl-strelec.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000008909990562/SFArw8eoAjqGo9ZPk7wW_Q/5b9d29efb555a751a4b40100-262298.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000008909990564/SFArw8eoAjqGo9ZPk7wW_Q/5b9d29efb555a751a4b40100-262298.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 17:18:41 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Cachová je v Talence druhá, Mayer útočí na 9000 bodů</title>
+            <pubDate>Sat, 15 Sep 2018 17:16:12 GMT</pubDate>
+                <description><![CDATA[Kateřina Cachová je po prvním dnu sedmiboje v Talence druhá se součtem 3756 bodů a jen o 31 bodů zaostává za svým osobním rekordem ze srpnového mistrovství Evropy. Česká atletka si na mítinku ve Francii vylepšila vlastní maximum ve vrhu koulí na 13,32 metru, lépe než v Berlíně, kde skončila ziskem 6400 bodů šestá, zvládla i úvodní stovku překážek (13,23). V celkovém pořadí zaostává o 39 bodů za bronzovou medailistkou z ME Carolin Schäferovou z Německa.]]></description>
+                <guid>https://www.sport.cz/clanek/1022752-.html</guid>
+                <link>https://www.sport.cz/ostatni/atletika/clanek/1022752-cachova-je-v-talence-druha-mayer-utoci-na-9000-bodu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000005909990562/3L1vG97qgkaTj7KQKg55lA/5b6ca9e937dc50dfd09b0100-260508.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000005909990564/3L1vG97qgkaTj7KQKg55lA/5b6ca9e937dc50dfd09b0100-260508.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 17:16:12 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Slepička rozjásal Příbram! Sigma se dál topí v problémech</title>
+            <pubDate>Sat, 15 Sep 2018 17:01:18 GMT</pubDate>
+                <description><![CDATA[Po domácí prohře s Libercem a výprasku ve Zlíně se nováček z Příbrami dočkal tří bodů. V duelu s Olomoucí o nich rozhodl v sobotu u říčky Litavky nestárnoucí Miroslav Slepička. Sigma se dál trápí, už šest kol nevyhrála. ]]></description>
+                <guid>https://www.sport.cz/clanek/1022742-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022742-slepicka-rozjasal-pribram-sigma-se-dal-topi-v-problemech.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000007709990562/pljJJQEUeXMkESRcTOCtIg/5b9d356f5a5c03e074220100-262308.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000007709990564/pljJJQEUeXMkESRcTOCtIg/5b9d356f5a5c03e074220100-262308.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 17:01:18 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Francouzští tenisté jsou opět ve finále Davis Cupu</title>
+            <pubDate>Sat, 15 Sep 2018 14:20:51 GMT</pubDate>
+                <description><![CDATA[Tenisté Francie vyhráli v semifinále Davisova poháru v Lille proti Španělsku i čtyřhru a postoupili do finále, v němž budou obhajovat loňské vítězství. Třetí bod a nedostižné vedení 3:0 získala domácím v dnešní čtyřhře dvojice šestatřicetiletých veteránů Julien Benneteau, Nicolas Mahut, jež porazila 6:0, 6:4, 7:6 pár Marcel Granollers, Feliciano López.]]></description>
+                <guid>https://www.sport.cz/clanek/1022674-.html</guid>
+                <link>https://www.sport.cz/ostatni/tenis/clanek/1022674-francouzsti-teniste-jsou-opet-ve-finale-davis-cupu.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000002709990562/HpBXxa89s300ygn4-55F6g/5b9d1a3bdb5e658604440100-262288.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000002709990564/HpBXxa89s300ygn4-55F6g/5b9d1a3bdb5e658604440100-262288.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 16:57:02 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Hradec ve šlágru druhé ligy vyhrál v Jihlavě a vede tabulku</title>
+            <pubDate>Sat, 15 Sep 2018 10:15:34 GMT</pubDate>
+                <description><![CDATA[Fotbalisté Hradce Králové ve šlágru 8. kola druhé ligy zvítězili v Jihlavě 1:0 a posunuli se do čela neúplné tabulky. Votroci vystřídali na prvním...]]></description>
+                <guid>https://www.sport.cz/clanek/1022627-.html</guid>
+                <link>https://www.sport.cz/fotbal/2liga/clanek/1022627-hradec-ve-slagru-druhe-ligy-vyhral-v-jihlave-a-vede-tabulku.html#rss</link>
+                <szn:image/>
+                <szn:bigImage/>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 16:48:20 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Turecké cesty žerou pneumatiky, hartusil Kopecký. Přišel o poloosu a měl defekt, přesto vede</title>
+            <pubDate>Sat, 15 Sep 2018 16:31:06 GMT</pubDate>
+                <description><![CDATA[Pod žhnoucím sluncem se kabonil, přestože i po druhé etapě drží český závodní pilot Jan Kopecký se Škodou Fabia R5 první místo při Turecké rallye v kategorii WRC2. Přitom ani v průběhu sobotní etapy se továrními jezdci Škody Motorsport nevyhnuly zásadní potíže. „Štěstí nám nepřeje, problémy se nevyhýbají. Ale na druhou stranu se nás štěstěna svým způsobem drží, protože pořád v soutěži pokračujeme,&amp;quot; pokrčil rameny šestatřicetiletý pilot v narážce na obrovskou „úmrtnost&amp;quot; dalších posádek.]]></description>
+                <guid>https://www.sport.cz/clanek/1022691-.html</guid>
+                <link>https://www.sport.cz/moto/rallye/clanek/1022691-turecke-cesty-zerou-pneumatiky-hartusil-kopecky-prisel-o-poloosu-a-mel-defekt-presto-vede.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000000009990561/437XEGuMF9UJ8mjPXqR33Q/5b9d2323b085390b21950400-262291.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000000009990564/437XEGuMF9UJ8mjPXqR33Q/5b9d2323b085390b21950400-262291.jpg</szn:bigImage>
+                <szn:video>https://v16-a.sdn.szn.cz/v_16/vmd/15720?fl=mdk,30050765|</szn:video>
+                <szn:videoPoster>https://media.sport.cz//videos/gallery/5b9d2c37afc8b586f2ea0100-15720.jpg</szn:videoPoster>
+                <szn:upDate>Sat, 15 Sep 2018 16:31:06 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Mistr zahájil tažení za zlatým hattrickem vítězně</title>
+            <pubDate>Sat, 15 Sep 2018 13:16:50 GMT</pubDate>
+                <description><![CDATA[Hokejisté brněnské Komety vstoupili do nového ročníku Tipsport extraligy vítězně. Mistři z posledních dvou sezón sice v Chomutově nejprve promarnili dvoubrankový náskok z úvodního dějství, ale nakonec vezou tři body za výhru 4:2 a přerušili tak čtyřzápasovou sérii nezdarů s Piráty. Dvěma góly včetně vítězného zařídil výhru obhájců titulu útočník Lukáš Nahodil. Už v neděli hostí Kometa ve šlágru druhého kola ambiciózní Plzeň.]]></description>
+                <guid>https://www.sport.cz/clanek/1022557-.html</guid>
+                <link>https://www.sport.cz/hokej/extraliga/clanek/1022557-mistr-zahajil-tazeni-za-zlatym-hattrickem-vitezne.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0055011309000506/5AC1XFhM-_t8IESZpD707Q/5b9d20cb995daba5d6000200-262289.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0055011309000508/5AC1XFhM-_t8IESZpD707Q/5b9d20cb995daba5d6000200-262289.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 16:02:05 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Yates potvrdil vedení na Vueltě, do Madridu si pojede pro výhru</title>
+            <pubDate>Sat, 15 Sep 2018 15:57:47 GMT</pubDate>
+                <description><![CDATA[Britský cyklista Simon Yates potvrdil třetím místem v poslední horské etapě své vedení na Vueltě a má na dosah premiérový triumf na Grand Tour. Závod skončí nedělním dojezdem po rovině do Madridu, v němž už se celkové pořadí téměř jistě měnit nebude.]]></description>
+                <guid>https://www.sport.cz/clanek/1022719-.html</guid>
+                <link>https://www.sport.cz/ostatni/cyklistika/clanek/1022719-yates-potvrdil-vedeni-na-vuelte-do-madridu-si-pojede-pro-vyhru.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000007409990562/tdd7bfDPvdfrTvxWwuZiqg/5b9a845b39b7c85fd0c70000-262172.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000007409990564/tdd7bfDPvdfrTvxWwuZiqg/5b9a845b39b7c85fd0c70000-262172.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 15:57:47 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Nakládal se Salákem pomohli Jaroslavli v KHL k další výhře</title>
+            <pubDate>Sat, 15 Sep 2018 15:00:52 GMT</pubDate>
+                <description><![CDATA[Obránce Jakub Nakládal dal vítězný gól hokejistů Jaroslavle, kteří porazili v Kontinentální lize Čerepovec 4:1 a vyhráli pátý zápas v řadě. V...]]></description>
+                <guid>https://www.sport.cz/clanek/1022805-.html</guid>
+                <link>https://www.sport.cz/hokej/kontinentalni-liga/clanek/1022805-nakladal-se-salakem-pomohli-jaroslavli-v-khl-k-dalsi-vyhre.html#rss</link>
+                <szn:image/>
+                <szn:bigImage/>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 15:00:52 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Neuville i Ogier v Turecku odstoupili z druhé etapy, vede Tänak</title>
+            <pubDate>Sat, 15 Sep 2018 09:41:56 GMT</pubDate>
+                <description><![CDATA[Oba hlavní uchazeči o vítězství Thierry Neuville a Sébastien Ogier nedokončili dramatickou druhou etapu Turecké rallye. Belgický lídr mistrovství světa Neuville nemohl pokračovat s poškozeným hyundaiem, francouzský obhájce titulu Ogier s fiestou o něco později havaroval. Potíže měl i další průběžný lídr soutěže Andreas Mikkelsen, a tak se z vedení před závěrečným dnem raduje Ott Tänak. Estonský pilot Toyoty vede o 13,1 sekundy před týmovým kolegou Jarim-Mattim Latvalou a útočí na třetí triumf v MS v řadě.]]></description>
+                <guid>https://www.sport.cz/clanek/1022625-.html</guid>
+                <link>https://www.sport.cz/moto/rallye/clanek/1022625-neuville-i-ogier-v-turecku-odstoupili-z-druhe-etapy-vede-tanak.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0000001009990562/NF_t23o6hx-Vvg-yEyDgow/5b9bd12b8d4c874ed09d0100-262237.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0000001009990564/NF_t23o6hx-Vvg-yEyDgow/5b9bd12b8d4c874ed09d0100-262237.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 15:00:21 GMT</szn:upDate>
+        </item>
+        <item>
+            <title>Bílkovo zlaté střídání. Hronek přišel, viděl a vstřelil vítězný gól Zlína</title>
+            <pubDate>Sat, 15 Sep 2018 14:56:21 GMT</pubDate>
+                <description><![CDATA[Petr Hronek nebo Lukáš Holík? Tuhle otázku si kladl zlínský kouč Michal Bílek před pátečním ligovým duelem ve vršovickém Ďolíčku s Bohemians 1905. Přednost dostal druhý jmenovaný. Úkol byl přetěžký. Nahradit Ibrahima Traorého, který v reprezentační pauze odešel do Slavie. V 67. minutě došlo na prvního jmenovaného. Pětadvacetiletý Hronek nahradil právě Holíka a po sklepnutí od Poznara vstřelil v 74. minutě vítězný gól Zlína...]]></description>
+                <guid>https://www.sport.cz/clanek/1022620-.html</guid>
+                <link>https://www.sport.cz/fotbal/synot-liga/clanek/1022620-bilkovo-zlate-stridani-hronek-prisel-videl-a-vstrelil-vitezny-gol-zlina.html#rss</link>
+                <szn:image>https://media.sport.cz/images/top_foto2/0033015109200517/CsIbAdNqmwp1q2-fU3sScw/5b9bfcffc29a06af01990100-262268.jpg</szn:image>
+                <szn:bigImage>https://media.sport.cz/images/top_foto1/0033015109200519/CsIbAdNqmwp1q2-fU3sScw/5b9bfcffc29a06af01990100-262268.jpg</szn:bigImage>
+                <szn:video/>
+                <szn:videoPoster/>
+                <szn:upDate>Sat, 15 Sep 2018 14:56:21 GMT</szn:upDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Seznam Zprávy - nejnovější články</title>
+    <link>https://www.seznamzpravy.cz</link>
+    <description>Seznam Zprávy - nejnovější články</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 12 Sep 2018 20:25:18 +0000</lastBuildDate>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55583</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/ital-si-udelal-byznys-z-podvodnych-recenzi-jde-do-vezeni-55583</g:link>
+      <g:price>1</g:price>
+      <g:title>Ital si udělal byznys z podvodných recenzí. Jde do vězení</g:title>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:description>TripAdvisor zaměstnává vlastní vyšetřovatele, kteří se pomocí pokročilých technologií snaží odhalit podvodné recenze. Své poznatky pak sdílí s kontrolními úřady.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 22:13:46 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/Hgyl4.png?fl=cro,79,0,1745,982|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Zahraniční</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55584</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/jeden-politicky-maler-za-druhym-ale-zijeme-dele-55584</g:link>
+      <g:price>1</g:price>
+      <g:title>Jeden politický malér za druhým, ale žijeme déle</g:title>
+      <g:google_product_category>Den očima</g:google_product_category>
+      <g:description>Jaké události přinesla středa s datem 12. září? Vybírala Martina Spěváčková.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 21:40:00 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/7KDl1.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/7KDl1.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Den očima</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55574</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/autor-karikatury-sereny-williamsove-celi-vyhruzkam-smrti-je-blaznive-kam-svet-speje-rika-55574</g:link>
+      <g:price>1</g:price>
+      <g:title>Autor karikatury Sereny Williamsové čelí výhrůžkám smrtí. Je bláznivé, kam svět spěje, říká</g:title>
+      <g:google_product_category>Sport</g:google_product_category>
+      <g:description>Kauza kolem incidentu Sereny Williamsové z finále US Open dostává každým dnem nový rozměr. Australský karikaturista Mark Knight vytvořil pro deník Herald Sun kresbu, za kterou je nyní veřejně pranýřován.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 21:15:10 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/Ootlf.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/Ootlf.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Sport</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55531</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/spravovat-nebo-rozprodat-volby-v-brne-rozhodnou-o-budoucnosti-bytoveho-fondu-55531</g:link>
+      <g:price>1</g:price>
+      <g:title>Spravovat, nebo rozprodat? Volby v Brně rozhodnou o budoucnosti bytového fondu</g:title>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:description>Strany před volbami chtějí dostupné bydlení pro všechny. Neshodnou se ale na podobě bytového fondu.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 21:02:11 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_K/JQmMT.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_K/JQmMT.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Domácí</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55591</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/nebezpecnou-drogu-v-ostrave-uzilo-uz-18-lidi-55591</g:link>
+      <g:price>1</g:price>
+      <g:title>Nebezpečnou drogu v Ostravě užilo už 18 lidí</g:title>
+      <g:google_product_category>Domácí</g:google_product_category>
+      <g:description>První intoxikovaní se v Ostravě objevili v pondělí. Policie se případem začala zabývat poté, kdy v Komenského sadech zkolabovali dva muži bez domova. Dvaatřicetiletý muž přes snahu záchranářů zemřel, další ve vážném stavu skončil v nemocnici a je ve stabilizovaném stavu.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 20:29:35 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_L/VHsBH.jpeg?fl=cro,0,312,6000,3375|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_L/VHsBH.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Domácí</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55589</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/krize-lidskych-prav-ai-tlaci-na-prosazeni-tvrdsiho-zakona-o-drzeni-zbrani-v-usa-55589</g:link>
+      <g:price>1</g:price>
+      <g:title>Krize lidských práv. AI tlačí na prosazení tvrdšího zákona o držení zbraní v USA</g:title>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:description>Amnesty International (AI), celosvětová organizace monitorující porušování lidských práv, naléhá na vládu Spojených států, aby zpřísnila zákon o držení zbraní. Navrhuje přitom několik podmínek, které by měl zákon obsahovat, jako například věkovou hranici nebo národní registr zbraní. </g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 20:18:14 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/Raplc.jpeg?fl=cro,0,93,1800,1012|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Zahraniční</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55556</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/cesti-odpurci-globalniho-oteplovani-zaseli-mezi-lidi-nejistotu-klausova-strategie-ma-uspech-rika-sociolog-55556</g:link>
+      <g:price>1</g:price>
+      <g:title>Čeští odpůrci globálního oteplování zaseli mezi lidi nejistotu. Klausova strategie má úspěch, říká sociolog</g:title>
+      <g:google_product_category>Výzva</g:google_product_category>
+      <g:description>Třicet procent lidí v Česku si myslí, že ke globální změně klimatu nedochází a že se vědci nedokážou shodnout, jestli za ni může člověk. To je důsledek taktiky českých klimaskeptiků, tvrdí sociolog Petr Vidomus.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 20:00:00 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/AuKlp.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_F_M/AuKlp.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Výzva</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55588</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/vzacny-virus-opicich-nestovic-se-objevil-ve-velke-britanii-55588</g:link>
+      <g:price>1</g:price>
+      <g:title>Vzácný virus opičích neštovic se objevil ve Velké Británii</g:title>
+      <g:google_product_category>Zahraniční</g:google_product_category>
+      <g:description>Britské ministerstvo zdravotnictví a sociální péče potvrdilo, že jsou infekčním onemocněním nakažení dva lidé.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 19:22:47 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_E_K/zxhlb.jpeg?fl=cro,0,144,3000,1687|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https:None?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Zahraniční</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55586</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/korupce-na-prazske-hygiene-nebezpecna-droga-na-ostravsku-a-nova-smernice-o-copyrightu-55586</g:link>
+      <g:price>1</g:price>
+      <g:title>Korupce na pražské hygieně, nebezpečná droga na Ostravsku a nová směrnice o copyrightu</g:title>
+      <g:google_product_category>Večerní zprávy</g:google_product_category>
+      <g:description>Hlavní zpravodajská relace Televize Seznam.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 19:15:20 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_J/TQITT.png?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_H_J/TQITT.png?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Večerní zprávy</g:brand>
+    </item>
+    <item>
+      <g:condition>new</g:condition>
+      <g:id>55580</g:id>
+      <g:link>https://www.seznamzpravy.cz/clanek/muzikal-galileo-je-zpet-v-unoru-se-predstavi-v-puvodnim-hvezdnem-obsazeni-55580</g:link>
+      <g:price>1</g:price>
+      <g:title>Muzikál Galileo je zpět! V únoru se představí v původním hvězdném obsazení</g:title>
+      <g:google_product_category>Slavní</g:google_product_category>
+      <g:description>Jeden z nejúspěšnějších tuzemských muzikálů Galileo se po 15 letech vrací na divadelní prkna, do Divadla Hybernia v Praze. Producentem a zároveň jedním z představitelů hlavní role je zpěvák Janek Ledecký.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:custom_label_0>Wed, 12 Sep 2018 18:49:00 +0200</g:custom_label_0>
+      <g:image_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/mYilh.jpeg?fl=cro,0,0,1920,1080|res,1200,,3|jpg,80</g:image_link>
+      <g:video_link>https://d39-a.sdn.szn.cz/d_39/c_img_G_K/mYilh.jpeg?fl=res,1200,,3|jpg,80</g:video_link>
+      <g:brand>Slavní</g:brand>
+    </item>
+  </channel>
+</rss>

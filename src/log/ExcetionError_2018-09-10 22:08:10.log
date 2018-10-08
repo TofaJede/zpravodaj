@@ -1,0 +1,16 @@
+Caught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'update = CURRENT_TIMESTAMP' at line 1 in /Users/krystofkosut/www/OSIA/zpravodaj/src/class/model/rssChannel.php:41
+Stack trace:
+#0 /Users/krystofkosut/www/OSIA/zpravodaj/src/class/model/rssChannel.php(41): PDO->query('UPDATE rssChann...')
+#1 /Users/krystofkosut/www/OSIA/zpravodaj/src/class/controller/update.php(31): App\model\rssChannel->update(Array, ' id =1')
+#2 /Users/krystofkosut/www/OSIA/zpravodaj/src/public/index.php(120): App\controller\update->All()
+#3 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#5 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#6 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/App.php(513): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/App.php(406): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#11 /Users/krystofkosut/www/OSIA/zpravodaj/src/vendor/slim/slim/Slim/App.php(314): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#12 /Users/krystofkosut/www/OSIA/zpravodaj/src/public/index.php(125): Slim\App->run()
+#13 {main}
